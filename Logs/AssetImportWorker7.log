@@ -1,0 +1,176 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.3f1 (4bef613afd59) revision 4976481'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.985; Version 2009; 64bit' Language: 'pt' Physical Memory: 16318 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker7
+-projectPath
+C:/Users/djona/OneDrive/Documentos/GitHub/Exo-PI-Game
+-logFile
+Logs/AssetImportWorker7.log
+-srvPort
+57558
+Successfully changed project path to: C:/Users/djona/OneDrive/Documentos/GitHub/Exo-PI-Game
+C:/Users/djona/OneDrive/Documentos/GitHub/Exo-PI-Game
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 104.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.3f1 (4bef613afd59)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/djona/OneDrive/Documentos/GitHub/Exo-PI-Game/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon RX 580 Series (ID=0x67df)
+    Vendor:   ATI
+    VRAM:     8171 MB
+    Driver:   27.20.12033.2007
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56128
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002886 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 104.20 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.766 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004084 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.200 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.35 seconds
+Refreshing native plugins compatible for Editor in 0.72 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2719 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 103.2 MB.
+System memory in use after: 103.3 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3174.
+Total: 3.120000 ms (FindLiveObjects: 0.287800 ms CreateObjectMapping: 0.112700 ms MarkObjects: 2.630000 ms  DeleteObjects: 0.087200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/_Materials/Glow.mat
+  artifactKey: Guid(47324b571be18234a8fe371ae36aeffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Materials/Glow.mat using Guid(47324b571be18234a8fe371ae36aeffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98dbedd35f63a3a3b671eaa94aa1372f') in 0.885507 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/_Materials/box.mat
+  artifactKey: Guid(acb87502830d8bb4d9705d766b9b78fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Materials/box.mat using Guid(acb87502830d8bb4d9705d766b9b78fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ec597050b0679d6fbc7b5772a99ae23') in 0.020584 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/_Materials/Exos BG.jpg
+  artifactKey: Guid(a1251eb065089ee43b0ca2c1abe59796) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Materials/Exos BG.jpg using Guid(a1251eb065089ee43b0ca2c1abe59796) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45e8631d5eb0a6e935adcbc90465d85d') in 0.344764 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/_Materials/logo.jpg
+  artifactKey: Guid(c07884b4a9fe44042a7260833658e2e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Materials/logo.jpg using Guid(c07884b4a9fe44042a7260833658e2e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3551f8e638f70d0f38fb4e5681d84b82') in 0.094959 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004898 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.416 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2713 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.2 MB.
+System memory in use after: 108.4 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3251.
+Total: 2.501600 ms (FindLiveObjects: 0.352900 ms CreateObjectMapping: 0.117300 ms MarkObjects: 2.006000 ms  DeleteObjects: 0.024000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 152.454836 seconds.
+  path: Assets/_Materials/box.mat
+  artifactKey: Guid(acb87502830d8bb4d9705d766b9b78fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Materials/box.mat using Guid(acb87502830d8bb4d9705d766b9b78fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '782f3ddfc22df44dfee0e9be58950f40') in 0.090030 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004360 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.713 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.70 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2711 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.2 MB.
+System memory in use after: 108.4 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3255.
+Total: 4.199000 ms (FindLiveObjects: 0.399400 ms CreateObjectMapping: 0.322600 ms MarkObjects: 3.451500 ms  DeleteObjects: 0.023400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 551.143601 seconds.
+  path: Assets/_Materials
+  artifactKey: Guid(0004b0d4ad4a1b947b381202ea0031dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Materials using Guid(0004b0d4ad4a1b947b381202ea0031dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07851e15c50badd3825dc26e90a3b59b') in 0.015248 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.468873 seconds.
+  path: Assets/_Materials/papel.mat
+  artifactKey: Guid(e7221b2a30d3cea4f9dd4e1732dd3cfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Materials/papel.mat using Guid(e7221b2a30d3cea4f9dd4e1732dd3cfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b2a6fe6857b655e0a869c011a0ad315') in 0.082672 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004997 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.07 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.484 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.09 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2711 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.2 MB.
+System memory in use after: 108.4 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3259.
+Total: 2.650100 ms (FindLiveObjects: 0.335300 ms CreateObjectMapping: 0.129900 ms MarkObjects: 2.165900 ms  DeleteObjects: 0.017700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 7127.253244 seconds.
+  path: Assets/_Materials/papel.mat
+  artifactKey: Guid(e7221b2a30d3cea4f9dd4e1732dd3cfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Materials/papel.mat using Guid(e7221b2a30d3cea4f9dd4e1732dd3cfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd66c9afd45d7667991e63fcb8f90eb70') in 1.952245 seconds 
