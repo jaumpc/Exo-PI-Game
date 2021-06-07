@@ -6,7 +6,7 @@ public class DoorOpen : MonoBehaviour
 {
     public CanvasGroup openUI;
     public Animator DoorAnimator;
-    public AudioManager Audio;
+
 
     public void OnButtonClick1()
     {
@@ -16,12 +16,13 @@ public class DoorOpen : MonoBehaviour
  
     private void OnTriggerEnter(Collider other)
     {
-        Audio.Play("Faixa01");
+       
     }
     private void OnTriggerStay(Collider other)
     {
         if(other.tag == "battery"){
-           openUI.alpha = 1f; 
+           openUI.alpha = 1f;
+           openUI.blocksRaycasts = true; 
         }
      
     }
