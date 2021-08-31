@@ -15,11 +15,11 @@ D:/JP/Documents/Unity Projects/Exo-PI-Game
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-51706
+60565
 Successfully changed project path to: D:/JP/Documents/Unity Projects/Exo-PI-Game
 D:/JP/Documents/Unity Projects/Exo-PI-Game
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 103.35 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 93.91 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.3f1 (4bef613afd59)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/Resources/UnitySubsystems
@@ -35,1088 +35,184 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56288
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56152
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001573 seconds.
+Registered in 0.001350 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 104.76 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 94.81 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.264 seconds
+- Completed reload, in  1.144 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.003696 seconds.
+Registered in 0.003198 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.72 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.74 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.119 seconds
+- Completed reload, in  1.036 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 0.75 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.73 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3016 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 210.9 MB.
+System memory in use before: 211.0 MB.
 System memory in use after: 211.1 MB.
 
-Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 3506.
-Total: 2.453200 ms (FindLiveObjects: 0.256000 ms CreateObjectMapping: 0.143700 ms MarkObjects: 1.932800 ms  DeleteObjects: 0.119700 ms)
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 3507.
+Total: 2.270200 ms (FindLiveObjects: 0.242000 ms CreateObjectMapping: 0.153000 ms MarkObjects: 1.765900 ms  DeleteObjects: 0.108500 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Particles/DamageEffect/materials/recoilMetal.mat
-  artifactKey: Guid(a3eb0e42ce9a6764094c26b92bd7a9f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Particles/DamageEffect/materials/recoilMetal.mat using Guid(a3eb0e42ce9a6764094c26b92bd7a9f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e29d821109c2852f5ecb5e2d8355eb7') in 0.142594 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000256 seconds.
-  path: Assets/Invector-3rdPersonController/Melee Combat/3DModels/vMeleeWeapons/vSword/Materials/Sword_V_difuse.mat
-  artifactKey: Guid(86b9be6fc7905f447979c4292830ad75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Melee Combat/3DModels/vMeleeWeapons/vSword/Materials/Sword_V_difuse.mat using Guid(86b9be6fc7905f447979c4292830ad75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e71c8fb145cac9b37c07e83ef8051678') in 0.036168 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000298 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/VirtualShield/Material/virtualShield-02-Red.mat
-  artifactKey: Guid(77333bdcdadecae4d82a5c07a07e496e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/VirtualShield/Material/virtualShield-02-Red.mat using Guid(77333bdcdadecae4d82a5c07a07e496e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6492e5c61f02f85277393477c5960c67') in 0.037444 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000248 seconds.
-  path: Assets/Invector-3rdPersonController/Melee Combat/3DModels/vMeleeWeapons/vSword/Materials/Sword_V_mobile.mat
-  artifactKey: Guid(9a408fa73e5a4d943b03a7a2ad562565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Melee Combat/3DModels/vMeleeWeapons/vSword/Materials/Sword_V_mobile.mat using Guid(9a408fa73e5a4d943b03a7a2ad562565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f14cfc94fa2525ef2f4f2f9b8664deb1') in 0.016411 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000351 seconds.
-  path: Assets/blocagem level/sala2.fbx
-  artifactKey: Guid(fffbf9898ec4edb4d87376e81923c063) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/blocagem level/sala2.fbx using Guid(fffbf9898ec4edb4d87376e81923c063) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28d6120edc446857c0a3a4d3d44d51d4') in 0.096194 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000421 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/Scripts/ArcherySystem/Models/Bow/Materials/vArrow_Difuse.mat
-  artifactKey: Guid(850ca38c0bc85e04f8a7bd491c3724fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/Scripts/ArcherySystem/Models/Bow/Materials/vArrow_Difuse.mat using Guid(850ca38c0bc85e04f8a7bd491c3724fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '816116f46f74d335270b727b15ec98b9') in 0.025863 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000231 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Characters/Invector@V-Bot/Materials/V-bot-mobile@Color.mat
-  artifactKey: Guid(bbe3709136bbfc947ba4dd440bd633eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Characters/Invector@V-Bot/Materials/V-bot-mobile@Color.mat using Guid(bbe3709136bbfc947ba4dd440bd633eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2dadc682cc8e5a5d42503ebb6728c00') in 0.014189 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000377 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/3DModels/Props/vBarrel/3DModel/Materials/vBarrel_Difuse1.mat
-  artifactKey: Guid(da5a8467168dc7845a0c36d0ff6a05bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/3DModels/Props/vBarrel/3DModel/Materials/vBarrel_Difuse1.mat using Guid(da5a8467168dc7845a0c36d0ff6a05bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66b75f39c51419a48a23e0d23217da5a') in 0.133414 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000286 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/Materials/stair_chromo.mat
-  artifactKey: Guid(7c11b386f77cd54429ef4076e8239102) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/Materials/stair_chromo.mat using Guid(7c11b386f77cd54429ef4076e8239102) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e58fd0009ca48b3054d946d80983bf5') in 0.010052 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000333 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Characters/Invector@V-Bot/FBX/Materials/V-bot-texture.mat
-  artifactKey: Guid(e273db19c8bd7704099afa4200e56a2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Characters/Invector@V-Bot/FBX/Materials/V-bot-texture.mat using Guid(e273db19c8bd7704099afa4200e56a2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd4d6d4513b5e3c28857f70f443a028b') in 0.111221 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000227 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vRifle/Materials/vRifle_Grenade.mat
-  artifactKey: Guid(37e67ab8a89349a46b8c90f7e6e894c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vRifle/Materials/vRifle_Grenade.mat using Guid(37e67ab8a89349a46b8c90f7e6e894c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0551e56a9c30279217f3ad7ef8ef00f') in 0.018326 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000284 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/Materials/stair_Metal.mat
-  artifactKey: Guid(81e74faac9902024f82cdbde512a360c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/Materials/stair_Metal.mat using Guid(81e74faac9902024f82cdbde512a360c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74c3b7e78f85d05b63fc6035598faf95') in 0.008994 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000275 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/3DModels/Particles/Materials/scope 1.mat
-  artifactKey: Guid(bb2db54543160ab4e9d6f0f72f117503) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/3DModels/Particles/Materials/scope 1.mat using Guid(bb2db54543160ab4e9d6f0f72f117503) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c249f497550471542ac57d451f781e56') in 0.010637 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000274 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/Scripts/ArcherySystem/Models/Bow/Materials/vBow_Difuse.mat
-  artifactKey: Guid(306fe86082b00df4e845c60510b37de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/Scripts/ArcherySystem/Models/Bow/Materials/vBow_Difuse.mat using Guid(306fe86082b00df4e845c60510b37de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e70c5c6fa05e0619e5abba9d09e6cb3f') in 0.012811 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000526 seconds.
-  path: Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/transp.mat
-  artifactKey: Guid(b9c28342bd2f4574f937809794f73129) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/transp.mat using Guid(b9c28342bd2f4574f937809794f73129) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3cf5f7787df63011a2a1d226586a138') in 0.009539 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000301 seconds.
-  path: Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/transp.001.mat
-  artifactKey: Guid(a739230fc3597ac4794e42287ea59e6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/transp.001.mat using Guid(a739230fc3597ac4794e42287ea59e6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acc898f3852af9e2064b32893e08a6d6') in 0.010082 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000312 seconds.
-  path: Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/UIOnTop.mat
-  artifactKey: Guid(a33be1e1efa8ca14286b77d062313a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/UIOnTop.mat using Guid(a33be1e1efa8ca14286b77d062313a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '160622266157ab9cdc5e619e6d2a34fe') in 0.009290 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000248 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/BulletEffect/Resources/materials/WoodBits.mat
-  artifactKey: Guid(901c53f5a7bf1ec45a6277d139dd3e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/BulletEffect/Resources/materials/WoodBits.mat using Guid(901c53f5a7bf1ec45a6277d139dd3e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4ed7502a17e33ed7537bb3ca9075d15') in 0.011097 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000310 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Characters/Invector@V-Bot/Materials/V-bot-red.mat
-  artifactKey: Guid(2adddb9fd0a7aff4ebbdd3b34dc2eacc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Characters/Invector@V-Bot/Materials/V-bot-red.mat using Guid(2adddb9fd0a7aff4ebbdd3b34dc2eacc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fd3d27f3a9ba33d6b70a30d2e6d8400') in 0.012646 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000256 seconds.
-  path: Assets/Invector-3rdPersonController/Melee Combat/3DModels/vMeleeWeapons/vShield/Materials/vShield_difuse.mat
-  artifactKey: Guid(bf5874e16a20ba648b5d74ca8ba32a56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Melee Combat/3DModels/vMeleeWeapons/vShield/Materials/vShield_difuse.mat using Guid(bf5874e16a20ba648b5d74ca8ba32a56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8169ddef61d61c3234931556ecf0eed8') in 0.014377 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000209 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/cube.fbx
-  artifactKey: Guid(dee2cc7c00fcd6b4f90719f3660798f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/cube.fbx using Guid(dee2cc7c00fcd6b4f90719f3660798f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb13ab1ae30349e2a4c618e917d6c6f1') in 0.073372 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000247 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/Textures/wood_A/Materials/plank.mat
-  artifactKey: Guid(ecde927386aa31649a90f44ed86c6016) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/Textures/wood_A/Materials/plank.mat using Guid(ecde927386aa31649a90f44ed86c6016) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22144c03bab2c0f06b3fd49a71d2a075') in 0.033436 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000209 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/FootStep/Materials/ParticleSmokeVertlit 2.mat
-  artifactKey: Guid(082a5b83024b35042a596590c1dc503d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/FootStep/Materials/ParticleSmokeVertlit 2.mat using Guid(082a5b83024b35042a596590c1dc503d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea6edba1950dbcb8f87708037e40e8f3') in 0.013208 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000254 seconds.
-  path: Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/potionStamina.003.mat
-  artifactKey: Guid(fcd49da1846aa334fb26346d8891081e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/potionStamina.003.mat using Guid(fcd49da1846aa334fb26346d8891081e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f762066931fdf0361473e4df25cfd8f6') in 0.009497 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000248 seconds.
-  path: Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/potionHealth.000.mat
-  artifactKey: Guid(03ba3f92c30eb7146ae3d5b91e4a7fd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/potionHealth.000.mat using Guid(03ba3f92c30eb7146ae3d5b91e4a7fd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1a810fbe2b5da65901500a44bd246b2') in 0.017199 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000207 seconds.
-  path: Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/potionStamina.001.mat
-  artifactKey: Guid(463557700de24204f975e2f5cbaf3d9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/potionStamina.001.mat using Guid(463557700de24204f975e2f5cbaf3d9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7953515e89fc55ec6fd0fee41d767626') in 0.012695 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000318 seconds.
-  path: Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/potionHealth.002.mat
-  artifactKey: Guid(813e5ded68c204445b6937304d696843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/potionHealth.002.mat using Guid(813e5ded68c204445b6937304d696843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '618e736043e17cf183ea1fd502c7753c') in 0.012329 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000353 seconds.
-  path: Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/potionHealth.001.mat
-  artifactKey: Guid(6ad0c12cca130ae4dac48dac8dd02425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/potionHealth.001.mat using Guid(6ad0c12cca130ae4dac48dac8dd02425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff4c5fb4d6c8b8d82169ba16e05662ed') in 0.010045 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000237 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vRifle/Materials/vRifle_Difuse.mat
-  artifactKey: Guid(d6db4900bc78ba34387f6046ff1f475f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vRifle/Materials/vRifle_Difuse.mat using Guid(d6db4900bc78ba34387f6046ff1f475f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f34f9f4a5f599ff378907d9187ce10a') in 0.028529 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000408 seconds.
-  path: Assets/Invector-3rdPersonController/Melee Combat/3DModels/Other/Vases/Materials/vase.mat
-  artifactKey: Guid(2bf43f03a57780b48b853d3f3cbc6d31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Melee Combat/3DModels/Other/Vases/Materials/vase.mat using Guid(2bf43f03a57780b48b853d3f3cbc6d31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1ab9bfadc088fc3de48ba7297b1dc5b') in 0.124962 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000249 seconds.
-  path: Assets/_Models/Materials/parte2.mat
-  artifactKey: Guid(33fb48cfd6a00c34aae22995318cd393) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Models/Materials/parte2.mat using Guid(33fb48cfd6a00c34aae22995318cd393) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e42922c2ecd44fbb54f6f66158cbe78d') in 0.009632 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000303 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/FootStep/Materials/stepSand.mat
-  artifactKey: Guid(b6b6fe42fca74e84f86c69891ca6a989) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/FootStep/Materials/stepSand.mat using Guid(b6b6fe42fca74e84f86c69891ca6a989) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdf8e554bce7a4158e27cc783188f818') in 0.235240 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000342 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/NewAssets/BigRoom.obj
-  artifactKey: Guid(dfa9def7b0f762348b814e52da8a7df3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/NewAssets/BigRoom.obj using Guid(dfa9def7b0f762348b814e52da8a7df3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b957b520a33e47c0a223a19dc701ed1a') in 0.114550 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000250 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/FootStep/Materials/ParticleSmokeVertlit 1.mat
-  artifactKey: Guid(0ad7827431027c4479728decb7885fdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/FootStep/Materials/ParticleSmokeVertlit 1.mat using Guid(0ad7827431027c4479728decb7885fdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7e5efdd3f98f1f9d5afd8ce3550dd58') in 0.012992 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000380 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/BulletEffect/Resources/materials/WoodSpray.mat
-  artifactKey: Guid(aa665df3a812b3b459862f6953c5b53a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/BulletEffect/Resources/materials/WoodSpray.mat using Guid(aa665df3a812b3b459862f6953c5b53a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '074a7da30cfec9a0d39841fba07c5bac') in 0.010146 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000283 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Characters/Invector@V-Bot/Materials@custom/metal@custom.mat
-  artifactKey: Guid(892029c2cbb13fe49bbf3d98da032a3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Characters/Invector@V-Bot/Materials@custom/metal@custom.mat using Guid(892029c2cbb13fe49bbf3d98da032a3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20fa7a84b02f546e2d17e1e2f38b73ce') in 0.012669 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000321 seconds.
-  path: Assets/blocagem level/parede escura.mat
-  artifactKey: Guid(23fd0ba66fc15604cb1b9e7e08f239bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/blocagem level/parede escura.mat using Guid(23fd0ba66fc15604cb1b9e7e08f239bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74bfb00673dcf7cac421457aab38e17c') in 0.010333 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000270 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/vOctagon/Materials/light.mat
-  artifactKey: Guid(77bdd6e103307384797bc8477bac88e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/vOctagon/Materials/light.mat using Guid(77bdd6e103307384797bc8477bac88e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9187474bcfedd66b75a64871e153355a') in 0.130009 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000284 seconds.
-  path: Assets/blocagem level/parede_porta_fechada.fbx
-  artifactKey: Guid(bb60b5b878252ea4caa6e312b4d755f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/blocagem level/parede_porta_fechada.fbx using Guid(bb60b5b878252ea4caa6e312b4d755f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b9b2c754f787590ba69c050f7dea417') in 0.020540 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000282 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/vOctagon/Materials/octa.mat
-  artifactKey: Guid(9623ac7bdcf9ed942880df4431857700) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/vOctagon/Materials/octa.mat using Guid(9623ac7bdcf9ed942880df4431857700) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '021f772021760c752c04413bc2927f77') in 0.016549 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000299 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/3DModels/Textures/VbotBlackShooterEdition/BlackShooterEdition/Rubber.mat
-  artifactKey: Guid(08f92fb4bee6e6740aeed128f64eec90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/3DModels/Textures/VbotBlackShooterEdition/BlackShooterEdition/Rubber.mat using Guid(08f92fb4bee6e6740aeed128f64eec90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11f81df5cdb31a57e319e952de631114') in 0.013322 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000305 seconds.
-  path: Assets/blocagem level/teto.fbx
-  artifactKey: Guid(967e7eaa4dd517145a8bb89b44c94366) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/blocagem level/teto.fbx using Guid(967e7eaa4dd517145a8bb89b44c94366) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '294865b1ea54c2ac3deead5ba3bee205') in 0.020900 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000255 seconds.
-  path: Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/Material.001.mat
-  artifactKey: Guid(55a01753891421e45b5964c2ebc505d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/Material.001.mat using Guid(55a01753891421e45b5964c2ebc505d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b530654bd908dc8caaf33777adc650b') in 0.009881 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000278 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/Materials/vDecalMaterial.mat
-  artifactKey: Guid(68c902126d1e5bb48973f698c07ff293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/Materials/vDecalMaterial.mat using Guid(68c902126d1e5bb48973f698c07ff293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '831876aac567867e02ec9f08d2b04a45') in 0.014204 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000338 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vWeaponsNew/material/orange.mat
-  artifactKey: Guid(990f12e11c0c307478a50283c620cb39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vWeaponsNew/material/orange.mat using Guid(990f12e11c0c307478a50283c620cb39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '033e5f0abccc54ff5534e088d9c0eff7') in 0.015451 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000234 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Characters/Invector@V-Bot/Materials/V-bot-mobile@orange.mat
-  artifactKey: Guid(d9cd56450d1884a41857e2d211dd4249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Characters/Invector@V-Bot/Materials/V-bot-mobile@orange.mat using Guid(d9cd56450d1884a41857e2d211dd4249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f923134c7cc140f24b5045b3932a13dd') in 0.013720 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000314 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/3DModels/Props/bullets/materials/lambert1.mat
-  artifactKey: Guid(55d21989553a04b45bf27a3a8905417f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/3DModels/Props/bullets/materials/lambert1.mat using Guid(55d21989553a04b45bf27a3a8905417f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cd7b5488086dac9adabc174b88b028b') in 0.011322 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000230 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/3DModels/Textures/VbotBlackShooterEdition/BlackShooterEdition/Joints_Inside.mat
-  artifactKey: Guid(30a527013d66d7149a216f0ef785a164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/3DModels/Textures/VbotBlackShooterEdition/BlackShooterEdition/Joints_Inside.mat using Guid(30a527013d66d7149a216f0ef785a164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b42ff5dc6e464c14508b0a34417c88a2') in 0.016710 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000195 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/Scripts/ArcherySystem/Animations/Materials/rubber.mat
-  artifactKey: Guid(8219b4e5fe0d50d469b64f44c7e41694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/Scripts/ArcherySystem/Animations/Materials/rubber.mat using Guid(8219b4e5fe0d50d469b64f44c7e41694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82f73cb7a457742545deeac27cc8fa56') in 0.010965 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000321 seconds.
-  path: Assets/Invector-3rdPersonController/Melee Combat/3DModels/vMeleeWeapons/vShield/Materials/vShield_mobile.mat
-  artifactKey: Guid(82fdd2a51e957184889d4076d2365245) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Melee Combat/3DModels/vMeleeWeapons/vShield/Materials/vShield_mobile.mat using Guid(82fdd2a51e957184889d4076d2365245) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80ac0c90c7006ff281d5353895fae2fe') in 0.011402 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000236 seconds.
-  path: Assets/Invector-3rdPersonController/Melee Combat/3DModels/vMeleeWeapons/vKatana/Materials/vKatana_01.mat
-  artifactKey: Guid(e5ff61849ffbbc94b8ac09191f9d6b96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Melee Combat/3DModels/vMeleeWeapons/vKatana/Materials/vKatana_01.mat using Guid(e5ff61849ffbbc94b8ac09191f9d6b96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7441b0fb8ff893eaa5de1dbb2c5c8cb') in 0.012457 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000264 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/Materials/invector-icon-white.mat
-  artifactKey: Guid(31b68aadfd419f548b4a8c7d60cd5847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/Materials/invector-icon-white.mat using Guid(31b68aadfd419f548b4a8c7d60cd5847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd5f159296e4d71af80fbfd7279d865e') in 0.012161 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000257 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/BulletEffect/Resources/materials/WoodChunks.mat
-  artifactKey: Guid(6f2684c495e0df04d819c28ac6f18267) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/BulletEffect/Resources/materials/WoodChunks.mat using Guid(6f2684c495e0df04d819c28ac6f18267) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e431ab2fd4601327534dfd49ce33d5f6') in 0.010241 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000244 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/3DModels/Props/skyboxShooter.mat
-  artifactKey: Guid(4ddd28e15549a644582d9e1a88d215c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/3DModels/Props/skyboxShooter.mat using Guid(4ddd28e15549a644582d9e1a88d215c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '416a0cd546d07f7c0624122dbd0e0f21') in 0.012067 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000205 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vWeaponsNew/mesh/Materials/orange.mat
-  artifactKey: Guid(ce2b315703d3c1b43adceff36f2c494a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vWeaponsNew/mesh/Materials/orange.mat using Guid(ce2b315703d3c1b43adceff36f2c494a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39592ab79f70457b7147bb38b18d1b3d') in 0.009327 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000253 seconds.
-  path: Assets/Invector-3rdPersonController/Melee Combat/3DModels/Textures/vTexture/redline.mat
-  artifactKey: Guid(5b0fff1cce03fb34dafb1155e9caf794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Melee Combat/3DModels/Textures/vTexture/redline.mat using Guid(5b0fff1cce03fb34dafb1155e9caf794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00f31a718934129f01a7d0ad94d4350b') in 0.009399 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000226 seconds.
-  path: Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/potionStamina.000.mat
-  artifactKey: Guid(9bac7a2a6fe81c546b86cbf97b857a6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/potionStamina.000.mat using Guid(9bac7a2a6fe81c546b86cbf97b857a6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3befa7ca9c97a6aadaae8e97b24c9ce') in 0.010509 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000259 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/3DModels/Props/vBarrel/3DModel/Materials/vBarrel_broken.mat
-  artifactKey: Guid(2d3f8aa698c1ca1408865b9cd7635d7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/3DModels/Props/vBarrel/3DModel/Materials/vBarrel_broken.mat using Guid(2d3f8aa698c1ca1408865b9cd7635d7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fedf95e71fdd4ccb9236f47282a2329') in 0.281162 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000305 seconds.
-  path: Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/potionStamina.002.mat
-  artifactKey: Guid(5d35539fd6bad1b4c963b07f0903a6b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/potionStamina.002.mat using Guid(5d35539fd6bad1b4c963b07f0903a6b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '507ad0f62b6d2effdfb2e4992807d411') in 0.012266 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000336 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Characters/Invector@V-Bot/Materials/rubber.mat
-  artifactKey: Guid(8423017f5dc8db74e89724fca7ab915f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Characters/Invector@V-Bot/Materials/rubber.mat using Guid(8423017f5dc8db74e89724fca7ab915f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94f3fe6cde39cc605ad55ec248af861b') in 0.008191 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000298 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Characters/Invector@V-Bot/Materials/V-bot-white.mat
-  artifactKey: Guid(1795eb7cc68729e4f972ec1d79e7e996) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Characters/Invector@V-Bot/Materials/V-bot-white.mat using Guid(1795eb7cc68729e4f972ec1d79e7e996) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66273fb00c0feb744a17e42d436596db') in 0.017796 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000336 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vWeaponsNew/mesh/Materials/weaponMaterial2.mat
-  artifactKey: Guid(738736f6ade870648957ea31fd538a5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vWeaponsNew/mesh/Materials/weaponMaterial2.mat using Guid(738736f6ade870648957ea31fd538a5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bed79ac9d374c9374e27b6a86ceaeab') in 0.011647 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000272 seconds.
-  path: Assets/_Materials/papel.mat
-  artifactKey: Guid(e7221b2a30d3cea4f9dd4e1732dd3cfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Materials/papel.mat using Guid(e7221b2a30d3cea4f9dd4e1732dd3cfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d78fdb1f4193f715ab748e2b0f6651a') in 0.011690 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000291 seconds.
-  path: Assets/Barking_Dog/3D Free Modular Kit/_Meshes/Materials/Neon_01.mat
-  artifactKey: Guid(91a1b05a08a334950a599b252610e8cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Barking_Dog/3D Free Modular Kit/_Meshes/Materials/Neon_01.mat using Guid(91a1b05a08a334950a599b252610e8cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82dd80fc0ddc50d86a3f2015db9e544f') in 0.011868 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000280 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/Prefabs/Particles/Explosion/Materials/Smoke_static.mat
-  artifactKey: Guid(9abd6c2e7a229c74fa3ba0ece6363f4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/Prefabs/Particles/Explosion/Materials/Smoke_static.mat using Guid(9abd6c2e7a229c74fa3ba0ece6363f4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67a8e3993f87e633b0bad77b52abb032') in 0.010414 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000229 seconds.
-  path: Assets/blocagem level/trajeestatico.fbx
-  artifactKey: Guid(75b70008bdbbc704fa137a034321e42e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/blocagem level/trajeestatico.fbx using Guid(75b70008bdbbc704fa137a034321e42e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4f83d81c4a573d6cd54e85dc694ad85') in 0.017746 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000215 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/HUD/guide-texts/Materials/stepup.mat
-  artifactKey: Guid(5619fe383228c014384d72774680cef9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/HUD/guide-texts/Materials/stepup.mat using Guid(5619fe383228c014384d72774680cef9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c113b31323189925a32a1a5148ae1714') in 0.056791 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000292 seconds.
-  path: Assets/Invector-3rdPersonController/Melee Combat/3DModels/vMeleeWeapons/vKatana/Materials/vKatana_03.mat
-  artifactKey: Guid(3511a2bf3cdf579419a51771a57962c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Melee Combat/3DModels/vMeleeWeapons/vKatana/Materials/vKatana_03.mat using Guid(3511a2bf3cdf579419a51771a57962c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4998ac1f65a12c77938d81d75a1326a') in 0.012183 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000269 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/HUD/guide-texts/Materials/ragdoll.mat
-  artifactKey: Guid(d119e5049c07aa54fae04caaf56068e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/HUD/guide-texts/Materials/ragdoll.mat using Guid(d119e5049c07aa54fae04caaf56068e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aeb5c34019d61eeb73db0303eac2587d') in 0.029435 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000155 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/3DModels/Props/vBarrel/3DModel/Materials/vBarrel_DifuseA.mat
-  artifactKey: Guid(4cbd6b4e1a5cc154dae8bd30d3fd7dde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/3DModels/Props/vBarrel/3DModel/Materials/vBarrel_DifuseA.mat using Guid(4cbd6b4e1a5cc154dae8bd30d3fd7dde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '176f38798fd66ff13714f433c0b8dee7') in 0.047895 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000176 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/HealthItem/Materials/Material.mat
-  artifactKey: Guid(8975961753f14df47996f4a383999365) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/HealthItem/Materials/Material.mat using Guid(8975961753f14df47996f4a383999365) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaf5558ac058081bfcd9e5addd55235b') in 0.039743 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000276 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/BulletEffect/Resources/materials/MetalSparkBunch.mat
-  artifactKey: Guid(2d6de042e5219c44da7a60f8c653f655) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/BulletEffect/Resources/materials/MetalSparkBunch.mat using Guid(2d6de042e5219c44da7a60f8c653f655) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9de80d72ff7bfb214bec68693e4e5fd0') in 0.010571 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000244 seconds.
-  path: Assets/blocagem level/Piso_main.fbx
-  artifactKey: Guid(158c7656f582259409a8904100273c8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/blocagem level/Piso_main.fbx using Guid(158c7656f582259409a8904100273c8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53807d54efae1d8962a2a989ec4eecca') in 0.018525 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000288 seconds.
-  path: Assets/_Models/Materials/parte1.mat
-  artifactKey: Guid(027a0d9bbcdec444bbbc686c56cde043) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Models/Materials/parte1.mat using Guid(027a0d9bbcdec444bbbc686c56cde043) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e3b17f3b9fea60ca6b6c44297e7f9c6') in 0.009541 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000241 seconds.
-  path: Assets/blocagem level/parede1.fbx
-  artifactKey: Guid(4f8e33180dc85b245b6b2a57e0604053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/blocagem level/parede1.fbx using Guid(4f8e33180dc85b245b6b2a57e0604053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a217609b10c4a63b3ce6b07876f31ee2') in 0.021256 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000291 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/BodySnapSystem/Scripts/Editor/Resources/Materials/No Name.mat
-  artifactKey: Guid(65d5441e6a4c7d04287723684491347e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/BodySnapSystem/Scripts/Editor/Resources/Materials/No Name.mat using Guid(65d5441e6a4c7d04287723684491347e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2838eb50108ff1355ab4907687e17e59') in 0.009833 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000306 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/BulletEffect/Resources/materials/MetalSpray.mat
-  artifactKey: Guid(3bb868b03a8b1044cb95c1dcfbf802ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/BulletEffect/Resources/materials/MetalSpray.mat using Guid(3bb868b03a8b1044cb95c1dcfbf802ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f192f39365954c1f5d822efb02477a17') in 0.011110 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000280 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/3DModels/Textures/VbotBlackShooterEdition/BlackShooterEdition/Members_Plastic.mat
-  artifactKey: Guid(4a2bfe4818aecfe48bc7585647db7c94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/3DModels/Textures/VbotBlackShooterEdition/BlackShooterEdition/Members_Plastic.mat using Guid(4a2bfe4818aecfe48bc7585647db7c94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb9c405015b692dc989a14e75d11148e') in 0.146600 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000330 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/Scripts/ArcherySystem/Animations/Materials/metal.mat
-  artifactKey: Guid(cec23be7d90a4cf4b86be23b94ce1118) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/Scripts/ArcherySystem/Animations/Materials/metal.mat using Guid(cec23be7d90a4cf4b86be23b94ce1118) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e16603fdebab59be3e51745b8ee700ee') in 0.010421 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000316 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Textures/basicTextures/Materials/LocomotionBanner.mat
-  artifactKey: Guid(1fde83912a8bec848bc5c8d01d2afe97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Textures/basicTextures/Materials/LocomotionBanner.mat using Guid(1fde83912a8bec848bc5c8d01d2afe97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86cf34f6e3039a02230f6d2dc2d62574') in 0.070870 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000260 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/3DModels/Textures/VbotBlackShooterEdition/BlackShooterEdition/Members_Metal.mat
-  artifactKey: Guid(e6839823f9c76e74eaaa0012a1964f4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/3DModels/Textures/VbotBlackShooterEdition/BlackShooterEdition/Members_Metal.mat using Guid(e6839823f9c76e74eaaa0012a1964f4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f54e524a9c0ff23396798a5d804c39a') in 0.013700 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000233 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/HUD/guide-texts/Materials/jumpover.mat
-  artifactKey: Guid(5b566c2bd040aa24f9bea40bf8d47052) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/HUD/guide-texts/Materials/jumpover.mat using Guid(5b566c2bd040aa24f9bea40bf8d47052) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba72c19a23ca990c54b4aef3a8bf2a8c') in 0.065032 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000248 seconds.
-  path: Assets/blocagem level/partes_laboratorio_centro.fbx
-  artifactKey: Guid(6e2f7ecc9b32054408c8d09927ae189c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/blocagem level/partes_laboratorio_centro.fbx using Guid(6e2f7ecc9b32054408c8d09927ae189c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d6141d381c6de9c7c306bb6d78497b2') in 0.025950 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000284 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Characters/Invector@V-Bot/Materials/metal.mat
-  artifactKey: Guid(d54b4bc1f1be9d742992c660b899630a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Characters/Invector@V-Bot/Materials/metal.mat using Guid(d54b4bc1f1be9d742992c660b899630a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b305c484ce0016e0ae6e74299dfedc1') in 0.006404 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000285 seconds.
-  path: Assets/_Materials/poster.mat
-  artifactKey: Guid(6df2cc5fc7b974e44b8589cba94fb692) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Materials/poster.mat using Guid(6df2cc5fc7b974e44b8589cba94fb692) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16d613e243ca6e35eeb4bab43a6c2518') in 0.012599 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000230 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/VirtualShield/Material/virtualShield-02-Yellow.mat
-  artifactKey: Guid(3f4b6457b4239d749ba115cc3d27e8c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/VirtualShield/Material/virtualShield-02-Yellow.mat using Guid(3f4b6457b4239d749ba115cc3d27e8c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18daca26fe534390d3b162a56f6053d3') in 0.010924 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000308 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/3DModels/Props/targetPractice/Materials/targetPractice.mat
-  artifactKey: Guid(421b891ff49317b4c8a72e6d8d782cd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/3DModels/Props/targetPractice/Materials/targetPractice.mat using Guid(421b891ff49317b4c8a72e6d8d782cd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce46c052ca03b867999e3a5fa2f01fb2') in 0.041626 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000254 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Textures/prototype_textures/Materials/proto_orange.mat
-  artifactKey: Guid(f0c010b3a9057ed4cab0e6c8d8456105) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Textures/prototype_textures/Materials/proto_orange.mat using Guid(f0c010b3a9057ed4cab0e6c8d8456105) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43613cdf49d62868898f6d173870268f') in 0.132087 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000269 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/3DModels/Textures/VbotBlackShooterEdition/BlackShooterEdition/V.mat
-  artifactKey: Guid(fd5e79ef2b60ebc46848a30476c996d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/3DModels/Textures/VbotBlackShooterEdition/BlackShooterEdition/V.mat using Guid(fd5e79ef2b60ebc46848a30476c996d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b568a9a8cc36fe94aebfdee170b1e79e') in 0.016324 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000245 seconds.
-  path: Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/transp.003.mat
-  artifactKey: Guid(1c236f7d174aff943a65dd86d54c4486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/transp.003.mat using Guid(1c236f7d174aff943a65dd86d54c4486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfb4f60f9a28949ba978947000b68bfb') in 0.011013 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000394 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/3DModels/Props/vBarrel/3DModel/Materials/vBarrel_DifuseB.mat
-  artifactKey: Guid(5e18c53e0b3ffc24fa9f8634885f0640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/3DModels/Props/vBarrel/3DModel/Materials/vBarrel_DifuseB.mat using Guid(5e18c53e0b3ffc24fa9f8634885f0640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbeec83b113c4d6340c5e261f659f44c') in 0.072756 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000317 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Characters/Invector@V-Bot/Materials/V-bot-blue.mat
-  artifactKey: Guid(33fbcc57381f52445b5f4159c9847fbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Characters/Invector@V-Bot/Materials/V-bot-blue.mat using Guid(33fbcc57381f52445b5f4159c9847fbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '677487ccc6a99a22235f6f12f42928a0') in 0.012587 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000250 seconds.
-  path: Assets/Invector-3rdPersonController/Melee Combat/3DModels/Textures/vTexture/redDote.mat
-  artifactKey: Guid(2447387afca3a1747b476b37c7741e1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Melee Combat/3DModels/Textures/vTexture/redDote.mat using Guid(2447387afca3a1747b476b37c7741e1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04232c5b6e612c1f65f38867b86de0a6') in 0.011367 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000337 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vWeaponsNew/material/weaponMaterial2.mat
-  artifactKey: Guid(6e28447ba2c689044ad64c578428b199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vWeaponsNew/material/weaponMaterial2.mat using Guid(6e28447ba2c689044ad64c578428b199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d90d89735e2342aa7738658a9ab90f8') in 0.008955 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000284 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/FootStep/Materials/SandSmoke.mat
-  artifactKey: Guid(c35265b3fc6d0344aa5f8668269689a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/FootStep/Materials/SandSmoke.mat using Guid(c35265b3fc6d0344aa5f8668269689a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5576464b493ebd6c26ca8d3dd438d167') in 0.009179 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000262 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/Materials/mobile_cube.mat
-  artifactKey: Guid(3805243f7383ee740acbc079d3c7b38f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/Materials/mobile_cube.mat using Guid(3805243f7383ee740acbc079d3c7b38f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc7fdc23e2d1ed5941d5851f6240d47d') in 0.080448 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000185 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/VirtualShield/Material/virtualShield-02-Green.mat
-  artifactKey: Guid(23eeaf4dd29eaee47a5d156292226650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/VirtualShield/Material/virtualShield-02-Green.mat using Guid(23eeaf4dd29eaee47a5d156292226650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fadc2937dbbbf201c8ae0bf1a0b52f04') in 0.010240 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000253 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/3DModels/Textures/VbotBlackShooterEdition/BlackShooterEdition/Joints_Outside.mat
-  artifactKey: Guid(8ca50cac971f92b4fa234e0b48ccc432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/3DModels/Textures/VbotBlackShooterEdition/BlackShooterEdition/Joints_Outside.mat using Guid(8ca50cac971f92b4fa234e0b48ccc432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9202d92f148404f137561cf26693ea4') in 0.012529 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000240 seconds.
-  path: Assets/_Models/Materials/parte4.mat
-  artifactKey: Guid(eb9daf97648352442b945cbe784646f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Models/Materials/parte4.mat using Guid(eb9daf97648352442b945cbe784646f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f6b64665d687abf83e74046b3785c46') in 0.010325 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000248 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/FootStep/Materials/ParticleSmokeVertlit 3.mat
-  artifactKey: Guid(08f4e21d3305d5d408b2b58e710aad1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/FootStep/Materials/ParticleSmokeVertlit 3.mat using Guid(08f4e21d3305d5d408b2b58e710aad1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fb09718a8ee9a5b850364c0c0bf0905') in 0.010307 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000227 seconds.
-  path: Assets/Invector-3rdPersonController/Melee Combat/Resources/Materials/meleeLogo.mat
-  artifactKey: Guid(d2d254845e09f7648a96db3c0a6fca21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Melee Combat/Resources/Materials/meleeLogo.mat using Guid(d2d254845e09f7648a96db3c0a6fca21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4d1086135bb01de92224070fcb7f8fa') in 0.009391 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000194 seconds.
-  path: Assets/blocagem level/centro_laboratorio.fbx
-  artifactKey: Guid(133249f5f30fde04bb2ac1083ea9cb70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/blocagem level/centro_laboratorio.fbx using Guid(133249f5f30fde04bb2ac1083ea9cb70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '645da72ee6eee5c0c762b211c794c882') in 0.051890 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000222 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vRifle/Materials/vWeapon_b_grenade_difuse.mat
-  artifactKey: Guid(a7593b22638106c4cb5c538e2d89153f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vRifle/Materials/vWeapon_b_grenade_difuse.mat using Guid(a7593b22638106c4cb5c538e2d89153f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a525444d642da0e944fe3fa0fbf1926') in 0.015514 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000254 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/3DModels/Particles/Materials/scope.mat
-  artifactKey: Guid(db72c2d5ee90cb74a93631822e36cd03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/3DModels/Particles/Materials/scope.mat using Guid(db72c2d5ee90cb74a93631822e36cd03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3eef290639bb57de93204efcb6cc695') in 0.010081 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000227 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/3DModels/Particles/Materials/trail.mat
-  artifactKey: Guid(7a9c81640763dc54b9638d56c3c7f72a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/3DModels/Particles/Materials/trail.mat using Guid(7a9c81640763dc54b9638d56c3c7f72a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '302bbad28f7c79657c6c3034de5226e6') in 0.009509 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000233 seconds.
-  path: Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/potionHealth.003.mat
-  artifactKey: Guid(77370da96e7edcc4e96d3e4424a5af47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/potionHealth.003.mat using Guid(77370da96e7edcc4e96d3e4424a5af47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f12da79de4e48faa18eec94a7c268f3') in 0.013659 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000277 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/VirtualShield/Material/virtualShield-03.mat
-  artifactKey: Guid(8bb9432cc7e4e534b9c4e8998c064813) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/VirtualShield/Material/virtualShield-03.mat using Guid(8bb9432cc7e4e534b9c4e8998c064813) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a24134c57c82aefc851a5c4f2de6dddb') in 0.010389 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000228 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Characters/Invector@V-Bot/Materials@custom/rubber@custom.mat
-  artifactKey: Guid(b10831ad41c098f4f918dd361f87017d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Characters/Invector@V-Bot/Materials@custom/rubber@custom.mat using Guid(b10831ad41c098f4f918dd361f87017d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b28f052e6fae5b2b08d3463a74fa258b') in 0.009880 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000263 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/VirtualShield/Material/virtualShield-01.mat
-  artifactKey: Guid(6aae78f96a85bbc4a94e45b920ab2615) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/VirtualShield/Material/virtualShield-01.mat using Guid(6aae78f96a85bbc4a94e45b920ab2615) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '644812320e8cf2ca589d3d05dd4d303d') in 0.010186 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000218 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/3DModels/Props/vBarrel/3DModel/Materials/vBarrel_DifuseC.mat
-  artifactKey: Guid(31da8d6358270ee479acd43cec8112a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/3DModels/Props/vBarrel/3DModel/Materials/vBarrel_DifuseC.mat using Guid(31da8d6358270ee479acd43cec8112a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6eaf7bd24bb30699375295ea15019ee1') in 0.044823 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000287 seconds.
-  path: Assets/Invector-3rdPersonController/ItemManager/Icons/Materials/remove_icon.mat
-  artifactKey: Guid(9e97d430cf89a4c499333682e01b4fd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/ItemManager/Icons/Materials/remove_icon.mat using Guid(9e97d430cf89a4c499333682e01b4fd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '832d3fffc095041358a67ce228ace5c4') in 0.012100 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000264 seconds.
-  path: Assets/Invector-3rdPersonController/Melee Combat/3DModels/Textures/vTexture/vtexture.mat
-  artifactKey: Guid(279bd554036ec784bb90add7586b4650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Melee Combat/3DModels/Textures/vTexture/vtexture.mat using Guid(279bd554036ec784bb90add7586b4650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9b6c260d7fd850e1627930106d3b1c6') in 0.338183 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000204 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/ObjectDamage/Material/ToxicParticle.mat
-  artifactKey: Guid(e6bd8e301ea5f1e4584b136350644cdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/ObjectDamage/Material/ToxicParticle.mat using Guid(e6bd8e301ea5f1e4584b136350644cdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27b4f9273bff32ffa31218dc3bded8f1') in 0.088544 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000266 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/HealthItem/Materials/health-01.mat
-  artifactKey: Guid(f31f0391f259cfb41a4980938a35740b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/HealthItem/Materials/health-01.mat using Guid(f31f0391f259cfb41a4980938a35740b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd651779b2f7941ecc54477b596d6e8e0') in 0.012222 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000248 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/HUD/_fonts/consola.ttf
-  artifactKey: Guid(1c7a637ebb71f034c97397ef794d1f18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/HUD/_fonts/consola.ttf using Guid(1c7a637ebb71f034c97397ef794d1f18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d1ee37cbc95af66e0d720644ebab1c0') in 0.030579 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000385 seconds.
-  path: Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/Invector-Chest-01.mat
-  artifactKey: Guid(1b18920186e0d684e93d8e30b7b880d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/Invector-Chest-01.mat using Guid(1b18920186e0d684e93d8e30b7b880d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '434225da9ff7a47eb7c28c56f178de5c') in 0.045938 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000256 seconds.
-  path: Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/healthUp.002.mat
-  artifactKey: Guid(74410c11648afe24ab4cbd6292ae99f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/healthUp.002.mat using Guid(74410c11648afe24ab4cbd6292ae99f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd52b09e6e2a5394864e789edbf3512da') in 0.009647 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000245 seconds.
-  path: Assets/_Materials/Glow.mat
-  artifactKey: Guid(47324b571be18234a8fe371ae36aeffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Materials/Glow.mat using Guid(47324b571be18234a8fe371ae36aeffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b2b01ee5492b41721150bc710858a8e') in 0.008974 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000293 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/Textures/Glass/Materials/glass.mat
-  artifactKey: Guid(e66f15ded7d430347a9de5b5211aafe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/Textures/Glass/Materials/glass.mat using Guid(e66f15ded7d430347a9de5b5211aafe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c04d3c943bad0ee2d521aa450225ed96') in 0.092780 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000322 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/BulletEffect/Resources/materials/GlassBits.mat
-  artifactKey: Guid(62f4060e7444302489ed37f4c24dc649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/BulletEffect/Resources/materials/GlassBits.mat using Guid(62f4060e7444302489ed37f4c24dc649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a084b1f526f76ed9ad0c050949841f6f') in 0.012833 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000216 seconds.
-  path: Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/Invector-Chest-02.mat
-  artifactKey: Guid(9b8c2cd4d243f124a8f219611c9d9266) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/Invector-Chest-02.mat using Guid(9b8c2cd4d243f124a8f219611c9d9266) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '375fdba5cc1520c7d9f9762035c4ee3a') in 0.012336 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000299 seconds.
-  path: Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/healthUp.001.mat
-  artifactKey: Guid(f69dc9f78d4fec84aadb03a23def8c41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/healthUp.001.mat using Guid(f69dc9f78d4fec84aadb03a23def8c41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aeb229b1fc9e28e591cd9f0153aac559') in 0.009405 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000266 seconds.
-  path: Assets/Invector-3rdPersonController/Melee Combat/3DModels/Other/Vases/Materials/Internal.mat
-  artifactKey: Guid(328fd55135317734abaa9edc7c05270a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Melee Combat/3DModels/Other/Vases/Materials/Internal.mat using Guid(328fd55135317734abaa9edc7c05270a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd948a3619f9abd7f8d39c090b7fc2787') in 0.013013 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000253 seconds.
-  path: Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/healthUp.000.mat
-  artifactKey: Guid(2858eb05d16b9e84ca67d6ac12251a0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/healthUp.000.mat using Guid(2858eb05d16b9e84ca67d6ac12251a0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f2d8d5a2db96b75bf988f135ce7067c') in 0.009352 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000280 seconds.
-  path: Assets/Barking_Dog/3D Free Modular Kit/_Meshes/Materials/Glass.mat
-  artifactKey: Guid(e318ecb29444643f09e7c0d3dea07387) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Barking_Dog/3D Free Modular Kit/_Meshes/Materials/Glass.mat using Guid(e318ecb29444643f09e7c0d3dea07387) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5083d9c7cf0ef7a1383b73ed7262b8e5') in 0.010926 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000234 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/Prefabs/Particles/Explosion/Materials/Fire_static.mat
-  artifactKey: Guid(8efaaea277981b44aa80668ae5c814b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/Prefabs/Particles/Explosion/Materials/Fire_static.mat using Guid(8efaaea277981b44aa80668ae5c814b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3a61ec720929ae544ce8937b325d495') in 0.009935 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000251 seconds.
-  path: Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/healthUp.003.mat
-  artifactKey: Guid(0546ff6a5b37fda4d9aac767a3ea7c79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/healthUp.003.mat using Guid(0546ff6a5b37fda4d9aac767a3ea7c79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aef2c2e7aecf02007e2541ee10b0a522') in 0.010049 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000244 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/BulletEffect/Resources/materials/GlassSpray.mat
-  artifactKey: Guid(0af6b2dc0b0fd4e4f86513f51bc88d17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/BulletEffect/Resources/materials/GlassSpray.mat using Guid(0af6b2dc0b0fd4e4f86513f51bc88d17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe951cd810672fa2d68748be055c4792') in 0.010744 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000276 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/HealthItem/Materials/health-02.mat
-  artifactKey: Guid(1beaec239d93b834d8276eee2627b4b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/HealthItem/Materials/health-02.mat using Guid(1beaec239d93b834d8276eee2627b4b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e51ee97fa7e1a05ab6781f682eadf558') in 0.010540 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000214 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/BulletEffect/Resources/materials/GlassShard.mat
-  artifactKey: Guid(3c72a66863abd144794a67bdae5c4944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/BulletEffect/Resources/materials/GlassShard.mat using Guid(3c72a66863abd144794a67bdae5c4944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60f169e7b55de39a41f9d297e8fa7f67') in 0.009912 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000350 seconds.
-  path: Assets/Invector-3rdPersonController/Melee Combat/3DModels/vMeleeWeapons/vKatana/Materials/vKatana_04.mat
-  artifactKey: Guid(d58ff9fcc0d12f244b4ccb2280bb708f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Melee Combat/3DModels/vMeleeWeapons/vKatana/Materials/vKatana_04.mat using Guid(d58ff9fcc0d12f244b4ccb2280bb708f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42adb30f47a324f3661d46d6530e9cbc') in 0.010327 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000309 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/FootStep/Materials/ParticleSmokeVertlit.mat
-  artifactKey: Guid(225843b6084e75440a6ea970a17c93aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/FootStep/Materials/ParticleSmokeVertlit.mat using Guid(225843b6084e75440a6ea970a17c93aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c39b9d713ed63379fd1e07fdc970da77') in 0.012026 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000251 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/FootStep/Materials/step.mat
-  artifactKey: Guid(bbe9a3f845cc73b498188d55a1c6abed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/FootStep/Materials/step.mat using Guid(bbe9a3f845cc73b498188d55a1c6abed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b34c73db418c0f736ebe122940b001b') in 0.016364 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000292 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/VirtualShield/Texture/PortalParticle.mat
-  artifactKey: Guid(171a837587fecc54fa67bdda50ac2857) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/VirtualShield/Texture/PortalParticle.mat using Guid(171a837587fecc54fa67bdda50ac2857) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a87bab47a4ca48539d20bfdf1b88ca2a') in 0.132256 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000267 seconds.
-  path: Assets/blocagem level/sala1.fbx
-  artifactKey: Guid(ce60f0ded6f979a4d94df6899b38c5c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/blocagem level/sala1.fbx using Guid(ce60f0ded6f979a4d94df6899b38c5c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b65bc98e81b3f7870dc8910f417e181') in 0.026600 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000255 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/Scripts/ArcherySystem/Animations/Materials/vArrow_Difuse.mat
-  artifactKey: Guid(139d0caa08c330e4eb7ac784a8598a56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/Scripts/ArcherySystem/Animations/Materials/vArrow_Difuse.mat using Guid(139d0caa08c330e4eb7ac784a8598a56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57e2034caba9dcb51eb10aad8bce5d5d') in 0.014113 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000248 seconds.
-  path: Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/transp.002.mat
-  artifactKey: Guid(b6d5c8820aa1fcd4a8b39206430696a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/transp.002.mat using Guid(b6d5c8820aa1fcd4a8b39206430696a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f59b0987d34f7d9062802e1479d858f4') in 0.012029 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000291 seconds.
-  path: Assets/Invector-3rdPersonController/Melee Combat/3DModels/vMeleeWeapons/vKatana/Materials/vKatana_02.mat
-  artifactKey: Guid(f672ea7954cdd2143b5b874699e82655) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Melee Combat/3DModels/vMeleeWeapons/vKatana/Materials/vKatana_02.mat using Guid(f672ea7954cdd2143b5b874699e82655) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4328c349910677bd7bf1db4497918f6f') in 0.013036 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000258 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vRifle/Materials/Scope_Difuse.mat
-  artifactKey: Guid(3ff548cb6c06b4840b3ae047d56d488f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vRifle/Materials/Scope_Difuse.mat using Guid(3ff548cb6c06b4840b3ae047d56d488f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f578dfa2ebff409c4fc19ffbad87cec6') in 0.016312 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000199 seconds.
-  path: Assets/Invector-3rdPersonController/ItemManager/Icons/Melee/Materials/shooter_icon.mat
-  artifactKey: Guid(ec55d1a0413ffe544bf7b4b0ce3afabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/ItemManager/Icons/Melee/Materials/shooter_icon.mat using Guid(ec55d1a0413ffe544bf7b4b0ce3afabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '614ab1c741de187bdd4f3b5366f45ade') in 0.010680 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000313 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/vOctagon/Materials/fence.mat
-  artifactKey: Guid(c36da73aa9c67db4c8e0f919c27ecf1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/vOctagon/Materials/fence.mat using Guid(c36da73aa9c67db4c8e0f919c27ecf1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bb2aed390f833ce99701c3c1aed0fd2') in 0.013605 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000234 seconds.
-  path: Assets/3DGamekit/Art/Materials/Dropship/Dropship_04_Mat.mat
-  artifactKey: Guid(a7569aadde6bf9e40a7068da3b212ad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/3DGamekit/Art/Materials/Dropship/Dropship_04_Mat.mat using Guid(a7569aadde6bf9e40a7068da3b212ad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90f27e362d7f13bc92a7d0236317be17') in 0.025289 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000236 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/BulletEffect/Resources/materials/DustCloud.mat
-  artifactKey: Guid(afde43d4d249092409646b6446a30ab1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/BulletEffect/Resources/materials/DustCloud.mat using Guid(afde43d4d249092409646b6446a30ab1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e358ea2211e29915d4e2daa038c563a5') in 0.011423 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000241 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/vOctagon/Materials/edges.mat
-  artifactKey: Guid(03f5669cd6400294abad98057cacd07c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/vOctagon/Materials/edges.mat using Guid(03f5669cd6400294abad98057cacd07c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0f7dfe495239d0ec092c2bcf55d0a5a') in 0.013968 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000177 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/SimpleDoor/Materials/Door_Orange.mat
-  artifactKey: Guid(90a5b22692486e6499904e9dfcc62fdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/SimpleDoor/Materials/Door_Orange.mat using Guid(90a5b22692486e6499904e9dfcc62fdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2a9d5b0104597fc371c0f1f2ff59b94') in 0.298030 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000270 seconds.
-  path: Assets/3DGamekit/Art/Materials/Dropship/Dropship_02_Mat.mat
-  artifactKey: Guid(9f6ef4965d08a0e4e9074adc1e848339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/3DGamekit/Art/Materials/Dropship/Dropship_02_Mat.mat using Guid(9f6ef4965d08a0e4e9074adc1e848339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3ba2625d1f3338f7d6d4cb90c502b05') in 0.023081 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000347 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/SimpleDoor/Materials/Door_Red.mat
-  artifactKey: Guid(d31d68e3ee644f14da0ab61e4cf35ec7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/SimpleDoor/Materials/Door_Red.mat using Guid(d31d68e3ee644f14da0ab61e4cf35ec7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89aef20f6f88e2a8f5215beaef49fb4f') in 0.015813 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000284 seconds.
-  path: Assets/3DGamekit/Art/Materials/Dropship/Dropship_03_Mat.mat
-  artifactKey: Guid(7a789884b6c7b5d41b87337c5fc29995) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/3DGamekit/Art/Materials/Dropship/Dropship_03_Mat.mat using Guid(7a789884b6c7b5d41b87337c5fc29995) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2de908fa630e8104a01d908254b0458c') in 0.021547 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000318 seconds.
-  path: Assets/3DGamekit/Art/Materials/Dropship/Dropship_05_Mat.mat
-  artifactKey: Guid(1c4cffe9877845349940f71100042f8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/3DGamekit/Art/Materials/Dropship/Dropship_05_Mat.mat using Guid(1c4cffe9877845349940f71100042f8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20c60c2698560849540280a3b5e329dd') in 0.014218 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000198 seconds.
-  path: Assets/Invector-3rdPersonController/Melee Combat/3DModels/Other/Vases/Materials/dustSplash.mat
-  artifactKey: Guid(b2dfa4e6afa779e449985e6f38ae184e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Melee Combat/3DModels/Other/Vases/Materials/dustSplash.mat using Guid(b2dfa4e6afa779e449985e6f38ae184e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cad32ac5a709971798e0b752013b215') in 0.039829 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000309 seconds.
-  path: Assets/3DGamekit/Art/Materials/Dropship/Dropship_01_Mat.mat
-  artifactKey: Guid(ceacc89730515714ba02cef1afa41521) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/3DGamekit/Art/Materials/Dropship/Dropship_01_Mat.mat using Guid(ceacc89730515714ba02cef1afa41521) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '354c508a8a544f1f117873f9380de5df') in 0.025843 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000242 seconds.
-  path: Assets/_Materials/Enalds_mat.mat
-  artifactKey: Guid(c392335fe183be7449f3a7e184b6f8f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Materials/Enalds_mat.mat using Guid(c392335fe183be7449f3a7e184b6f8f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a2c25d072fac0a931cbd7f940614af8') in 0.087619 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 13.414369 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/BulletEffect/Resources/materials/DirtCloud.mat
-  artifactKey: Guid(5b01e7d6e07e5d24a8b4b701cf9a95dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/BulletEffect/Resources/materials/DirtCloud.mat using Guid(5b01e7d6e07e5d24a8b4b701cf9a95dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5639700b659d91bbc70595429032161') in 0.014316 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000209 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/BulletEffect/Resources/materials/DirtSpray.mat
-  artifactKey: Guid(0402bec9db4de2244b96a20c200ba3d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/BulletEffect/Resources/materials/DirtSpray.mat using Guid(0402bec9db4de2244b96a20c200ba3d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbf1c40323efe6fb5e419133f11e7dc0') in 0.010580 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000289 seconds.
-  path: Assets/Field - Complete Main Menu (Lite)/Materials/Dissolve.mat
-  artifactKey: Guid(8385f0e712bb65b428cf18e6ab1c29c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Field - Complete Main Menu (Lite)/Materials/Dissolve.mat using Guid(8385f0e712bb65b428cf18e6ab1c29c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec678d2264bfa3da8947872d6b17838b') in 0.719928 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000336 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/HUD/guide-texts/Materials/crouch.mat
-  artifactKey: Guid(f26ab3497b622db4f8bda2446e5e7e84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/HUD/guide-texts/Materials/crouch.mat using Guid(f26ab3497b622db4f8bda2446e5e7e84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a12034133b0321d816ca9f5fab7afb30') in 0.038100 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000233 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/HUD/guide-texts/Materials/climb.mat
-  artifactKey: Guid(fe5108bb1f2e2c848bf5ddc4ebbc7012) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/HUD/guide-texts/Materials/climb.mat using Guid(fe5108bb1f2e2c848bf5ddc4ebbc7012) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84f157b6c3489af88e95c5e88f78d9e7') in 0.030684 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000271 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Characters/Invector@V-Bot/Materials@custom/chrome@custom.mat
-  artifactKey: Guid(936aae22a565c77448c1b1a9f6928b6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Characters/Invector@V-Bot/Materials@custom/chrome@custom.mat using Guid(936aae22a565c77448c1b1a9f6928b6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e954a2a7586150171b473801f15b8be') in 0.010149 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000241 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/BulletEffect/Resources/materials/ConcreteBits.mat
-  artifactKey: Guid(6f459b82422631b4ca135687538f1b47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/BulletEffect/Resources/materials/ConcreteBits.mat using Guid(6f459b82422631b4ca135687538f1b47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70dd7ce5c50e8430d5c519451e6e79da') in 0.010571 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000274 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/vOctagon/Materials/corner.mat
-  artifactKey: Guid(f13bf5ff2d8ae294b9be80311a6ba72b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/vOctagon/Materials/corner.mat using Guid(f13bf5ff2d8ae294b9be80311a6ba72b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96e8434bea42be5712b9581d2d3a16c0') in 0.015226 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000268 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/Prefabs/Particles/Explosion/Materials/DirtStreak.mat
-  artifactKey: Guid(7386c91a9f7f56f489229e51dc3c9152) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/Prefabs/Particles/Explosion/Materials/DirtStreak.mat using Guid(7386c91a9f7f56f489229e51dc3c9152) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1094b2cafabb5750e7c0d885035c89fe') in 0.011720 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000320 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/SimpleDoor/Materials/Door_Blue.mat
-  artifactKey: Guid(db2c88db9560a1743ba55608c16eab1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/SimpleDoor/Materials/Door_Blue.mat using Guid(db2c88db9560a1743ba55608c16eab1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9168b490ee727b492c7efff6bac267b') in 0.015631 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000237 seconds.
-  path: Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/collectable.mat
-  artifactKey: Guid(1269a1be7cb02214e8d549f83a377132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/collectable.mat using Guid(1269a1be7cb02214e8d549f83a377132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2449c8aed60f69099bf1b7a47f4c0c8') in 0.011731 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000293 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/BulletEffect/Resources/materials/ConcreteChunk.mat
-  artifactKey: Guid(2b711c6debaa29f4bb65bd179076ee17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/BulletEffect/Resources/materials/ConcreteChunk.mat using Guid(2b711c6debaa29f4bb65bd179076ee17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd8d78921811617f0101264000e8167e') in 0.010548 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000332 seconds.
-  path: Assets/Sci-Fi Styled Modular Pack/Materials/comuter_wall.mat
-  artifactKey: Guid(0d0f1f087865a1c47826008280428fdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sci-Fi Styled Modular Pack/Materials/comuter_wall.mat using Guid(0d0f1f087865a1c47826008280428fdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46095bb5ad46577ab5e22e44bdae60e5') in 0.011286 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000308 seconds.
-  path: Assets/Barking_Dog/3D Free Modular Kit/_Meshes/Materials/Diffuse_01.mat
-  artifactKey: Guid(34e48a3ce50b34c339d8fc61e309e31d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Barking_Dog/3D Free Modular Kit/_Meshes/Materials/Diffuse_01.mat using Guid(34e48a3ce50b34c339d8fc61e309e31d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1fc51c66c24e6a3b5996ddc6af7d537') in 0.023697 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000316 seconds.
-  path: Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/collectable 1.mat
-  artifactKey: Guid(af750708db6d7504dbdd396c16d5a460) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/collectable 1.mat using Guid(af750708db6d7504dbdd396c16d5a460) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd41bdaa8b21fee2b17e3310e7a6eaee1') in 0.010960 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000341 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/BulletEffect/Resources/materials/ConcreteSpray.mat
-  artifactKey: Guid(512c171b22447fc45b0992eb8c1c2dbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/BulletEffect/Resources/materials/ConcreteSpray.mat using Guid(512c171b22447fc45b0992eb8c1c2dbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7946534f3d92c46dd7cfe44956663645') in 0.009544 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000200 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/SimpleDoor/Materials/Door.mat
-  artifactKey: Guid(cb60be8a3b2a28d47b55a6544ed1c9d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/SimpleDoor/Materials/Door.mat using Guid(cb60be8a3b2a28d47b55a6544ed1c9d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7676727081edf2046de8180b7ccf737') in 0.014727 seconds 
+  path: Assets/3DGamekit
+  artifactKey: Guid(94ec376a280089b4f94f8cbe68e2b965) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DGamekit using Guid(94ec376a280089b4f94f8cbe68e2b965) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dd4db9a467cd818c57b28466c116fd5') in 0.009694 seconds 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 3.71 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 150.6 MB.
+System memory in use after: 150.8 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3507.
+Total: 2.330700 ms (FindLiveObjects: 0.257100 ms CreateObjectMapping: 0.153300 ms MarkObjects: 1.843800 ms  DeleteObjects: 0.075800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.178529 seconds.
+  path: Assets/_Prefabs/Energy Cell.prefab
+  artifactKey: Guid(950b2b8c35cc0674c85617048b2eba4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Prefabs/Energy Cell.prefab using Guid(950b2b8c35cc0674c85617048b2eba4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ab46bf0ddb201af1eac854d721f9594') in 0.122111 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.003269 seconds.
+Registered in 0.003221 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 0.71 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.901 seconds
+- Completed reload, in  0.946 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.74 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.72 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3005 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 216.2 MB.
-System memory in use after: 216.4 MB.
+Unloading 3004 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 213.9 MB.
+System memory in use after: 214.1 MB.
 
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3572.
-Total: 2.221100 ms (FindLiveObjects: 0.275000 ms CreateObjectMapping: 0.152600 ms MarkObjects: 1.672100 ms  DeleteObjects: 0.120000 ms)
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3519.
+Total: 2.464300 ms (FindLiveObjects: 0.322500 ms CreateObjectMapping: 0.155900 ms MarkObjects: 1.899100 ms  DeleteObjects: 0.085900 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.003200 seconds.
+Registered in 0.003127 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.917 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3004 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 213.9 MB.
+System memory in use after: 214.1 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3522.
+Total: 3.561900 ms (FindLiveObjects: 0.371100 ms CreateObjectMapping: 0.273100 ms MarkObjects: 2.806600 ms  DeleteObjects: 0.109900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 759.003333 seconds.
+  path: Assets/_Timelines/CameraTimeline.playable
+  artifactKey: Guid(448a6903d1944d64e85d6a04de736eb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Timelines/CameraTimeline.playable using Guid(448a6903d1944d64e85d6a04de736eb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '425820f4ec57d6010fe2e80f6ac6d804') in 0.022158 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003142 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.900 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.72 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3004 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 214.0 MB.
+System memory in use after: 214.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3525.
+Total: 2.468100 ms (FindLiveObjects: 0.289000 ms CreateObjectMapping: 0.139400 ms MarkObjects: 1.951000 ms  DeleteObjects: 0.087700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003600 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.957 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.71 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3004 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 214.0 MB.
+System memory in use after: 214.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3528.
+Total: 3.142200 ms (FindLiveObjects: 0.266100 ms CreateObjectMapping: 0.171700 ms MarkObjects: 2.594900 ms  DeleteObjects: 0.108700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003828 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.918 seconds
+- Completed reload, in  0.884 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.70 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.73 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3004 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 216.2 MB.
-System memory in use after: 216.4 MB.
+System memory in use before: 214.0 MB.
+System memory in use after: 214.2 MB.
 
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3575.
-Total: 5.593000 ms (FindLiveObjects: 0.541100 ms CreateObjectMapping: 0.404400 ms MarkObjects: 4.410200 ms  DeleteObjects: 0.235100 ms)
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3531.
+Total: 2.736400 ms (FindLiveObjects: 0.278800 ms CreateObjectMapping: 0.146100 ms MarkObjects: 2.223000 ms  DeleteObjects: 0.087800 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003182 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.893 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3004 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 214.0 MB.
+System memory in use after: 214.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3534.
+Total: 2.277000 ms (FindLiveObjects: 0.271000 ms CreateObjectMapping: 0.168100 ms MarkObjects: 1.752000 ms  DeleteObjects: 0.084900 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
