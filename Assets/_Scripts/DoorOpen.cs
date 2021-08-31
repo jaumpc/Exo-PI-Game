@@ -6,6 +6,7 @@ public class DoorOpen : MonoBehaviour
 {
     
     public Animator DoorAnimator;
+    public ParticleSystem Explosion;
 
 
 
@@ -14,6 +15,9 @@ public class DoorOpen : MonoBehaviour
     {
        DoorAnimator.SetBool("open", true);
        Destroy(gameObject);
+       Explosion.Play();
+
+       
     }
     
 }
