@@ -15,11 +15,11 @@ D:/JP/Documents/Unity Projects/Exo-PI-Game
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-52052
+49658
 Successfully changed project path to: D:/JP/Documents/Unity Projects/Exo-PI-Game
 D:/JP/Documents/Unity Projects/Exo-PI-Game
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 97.15 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 92.45 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.3f1 (4bef613afd59)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/Resources/UnitySubsystems
@@ -35,727 +35,841 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56856
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56512
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001375 seconds.
+Registered in 0.001405 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 100.14 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 94.78 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.183 seconds
+- Completed reload, in  1.151 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.005400 seconds.
+Registered in 0.003238 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.090 seconds
+- Completed reload, in  1.027 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 1.13 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.71 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3016 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 210.3 MB.
-System memory in use after: 210.4 MB.
+System memory in use before: 210.4 MB.
+System memory in use after: 210.5 MB.
 
 Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 3506.
-Total: 4.020300 ms (FindLiveObjects: 0.501900 ms CreateObjectMapping: 0.280900 ms MarkObjects: 3.030600 ms  DeleteObjects: 0.205100 ms)
+Total: 2.213900 ms (FindLiveObjects: 0.241300 ms CreateObjectMapping: 0.138200 ms MarkObjects: 1.729000 ms  DeleteObjects: 0.104700 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/_Models/left turn.fbx
-  artifactKey: Guid(b21b56383d7d5054385f2f87106c72ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Models/left turn.fbx using Guid(b21b56383d7d5054385f2f87106c72ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35eddaf14e61c0f76d83ecbdf3ceb22b') in 0.074176 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 3.802215 seconds.
-  path: Assets/_Models/left strafe walking.fbx
-  artifactKey: Guid(bfe08580ffdf90649b9c69d4fa7b0639) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Models/left strafe walking.fbx using Guid(bfe08580ffdf90649b9c69d4fa7b0639) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e5606be7820f76a47b2144afe4fc7c7') in 0.010805 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 37.912124 seconds.
-  path: Assets/_Models/Christopher.fbx
-  artifactKey: Guid(8177522d7c8015142b63c2ff504f3424) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Models/Christopher.fbx using Guid(8177522d7c8015142b63c2ff504f3424) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f86bd09be3d78134f5968d139d6096e') in 0.461443 seconds 
+  path: Assets/Invector-3rdPersonController/Shooter/Resources/AimCanvas 2.5d.prefab
+  artifactKey: Guid(9b5096fe0e95fe942b69fcf4fe622e77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/Shooter/Resources/AimCanvas 2.5d.prefab using Guid(9b5096fe0e95fe942b69fcf4fe622e77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecf495c5bd38efa98bcf2e8d175c643b') in 0.133193 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.006053 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.03 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.564 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.85 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3004 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 227.9 MB.
-System memory in use after: 228.1 MB.
-
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3553.
-Total: 4.230200 ms (FindLiveObjects: 0.508500 ms CreateObjectMapping: 0.350500 ms MarkObjects: 3.129200 ms  DeleteObjects: 0.137800 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.005463 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.97 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.129 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.82 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3004 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 227.9 MB.
-System memory in use after: 228.1 MB.
-
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3556.
-Total: 3.123300 ms (FindLiveObjects: 0.346300 ms CreateObjectMapping: 0.139300 ms MarkObjects: 2.552600 ms  DeleteObjects: 0.083700 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.005033 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.73 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.951 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3004 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 227.9 MB.
-System memory in use after: 228.1 MB.
-
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3559.
-Total: 5.696500 ms (FindLiveObjects: 0.596400 ms CreateObjectMapping: 0.516800 ms MarkObjects: 4.499300 ms  DeleteObjects: 0.082100 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.005029 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.74 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.924 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3004 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 228.0 MB.
-System memory in use after: 228.2 MB.
-
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3562.
-Total: 2.353500 ms (FindLiveObjects: 0.278500 ms CreateObjectMapping: 0.154800 ms MarkObjects: 1.838500 ms  DeleteObjects: 0.080700 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.006872 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.74 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.939 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.70 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3004 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 228.0 MB.
-System memory in use after: 228.2 MB.
-
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3565.
-Total: 2.306000 ms (FindLiveObjects: 0.267600 ms CreateObjectMapping: 0.156900 ms MarkObjects: 1.799200 ms  DeleteObjects: 0.081100 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.005958 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.94 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.224 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.86 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3004 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 228.0 MB.
-System memory in use after: 228.2 MB.
-
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3568.
-Total: 3.688600 ms (FindLiveObjects: 0.422200 ms CreateObjectMapping: 0.213500 ms MarkObjects: 2.964000 ms  DeleteObjects: 0.087700 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.005242 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.73 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.895 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.80 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3004 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 228.0 MB.
-System memory in use after: 228.2 MB.
-
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3571.
-Total: 2.510400 ms (FindLiveObjects: 0.286600 ms CreateObjectMapping: 0.152100 ms MarkObjects: 1.986000 ms  DeleteObjects: 0.084600 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004848 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.888 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3004 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 228.0 MB.
-System memory in use after: 228.2 MB.
-
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3574.
-Total: 2.453900 ms (FindLiveObjects: 0.258500 ms CreateObjectMapping: 0.148200 ms MarkObjects: 1.967600 ms  DeleteObjects: 0.079000 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.005464 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.72 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.954 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.83 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3004 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 228.0 MB.
-System memory in use after: 228.2 MB.
-
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3577.
-Total: 2.496000 ms (FindLiveObjects: 0.266600 ms CreateObjectMapping: 0.142100 ms MarkObjects: 2.005000 ms  DeleteObjects: 0.081200 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.005053 seconds.
+Registered in 0.003360 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 0.71 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.917 seconds
+- Completed reload, in  0.958 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3004 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 228.0 MB.
-System memory in use after: 228.2 MB.
+System memory in use before: 209.7 MB.
+System memory in use after: 209.9 MB.
 
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3580.
-Total: 6.213700 ms (FindLiveObjects: 0.575800 ms CreateObjectMapping: 0.445000 ms MarkObjects: 4.968100 ms  DeleteObjects: 0.221300 ms)
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3509.
+Total: 4.983700 ms (FindLiveObjects: 0.490800 ms CreateObjectMapping: 0.376300 ms MarkObjects: 3.893100 ms  DeleteObjects: 0.220700 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 875.938332 seconds.
+  path: Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_weaponsPrefabs/vAssaultRifle_Inventory.prefab
+  artifactKey: Guid(0aa8a1542200b3f4a978ba11eeb1ec1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_weaponsPrefabs/vAssaultRifle_Inventory.prefab using Guid(0aa8a1542200b3f4a978ba11eeb1ec1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9745838db1a857de9ff7770ae810728') in 1.900552 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.125991 seconds.
+  path: Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_weaponsPrefabs/vRPG_Inventory.prefab
+  artifactKey: Guid(490b027b4bc17844c86dfb0e3f50ba97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_weaponsPrefabs/vRPG_Inventory.prefab using Guid(490b027b4bc17844c86dfb0e3f50ba97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39b412f5c1a193e9c765b2f2b4961d4d') in 0.063301 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 22.343916 seconds.
+  path: Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_collectables/vCollectableSniper.prefab
+  artifactKey: Guid(b13b1a669dda56f4cbd8fb0d831eec76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_collectables/vCollectableSniper.prefab using Guid(b13b1a669dda56f4cbd8fb0d831eec76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2cc74a50da7f1f2b3f29453e5f2cdbf') in 0.384778 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.157954 seconds.
+  path: Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_collectables/vCollectableShotgun.prefab
+  artifactKey: Guid(763836da888842349a25cd7daf28a752) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_collectables/vCollectableShotgun.prefab using Guid(763836da888842349a25cd7daf28a752) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebe9cec1d9335af4e9ad32914787bc07') in 0.220982 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.276455 seconds.
+  path: Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_collectables/vCollectibleAssaultRifle.prefab
+  artifactKey: Guid(d514a70d9dfd1ec459bbec7c9799555a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_collectables/vCollectibleAssaultRifle.prefab using Guid(d514a70d9dfd1ec459bbec7c9799555a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b26a9ff095c15f61ed220f11265f4a9') in 0.283120 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.375091 seconds.
+  path: Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_collectables/vCollectableRPG.prefab
+  artifactKey: Guid(29c64441cf150e1478de24e3252446ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_collectables/vCollectableRPG.prefab using Guid(29c64441cf150e1478de24e3252446ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec93ce1032af940bb70a5d9e2c410641') in 0.320297 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 65.267393 seconds.
+  path: Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_collectables/vCollectableHandgun.prefab
+  artifactKey: Guid(38ebe90b46d37bd47822899bd47a318a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_collectables/vCollectableHandgun.prefab using Guid(38ebe90b46d37bd47822899bd47a318a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31b81149ffa0fbafebc486363605afb9') in 0.197550 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.970585 seconds.
+  path: Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_weaponsPrefabs/RifleClip.prefab
+  artifactKey: Guid(f0031d2f9e062d64a88344acdacbcb95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_weaponsPrefabs/RifleClip.prefab using Guid(f0031d2f9e062d64a88344acdacbcb95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aefec5e8fef242fae315968dabb851ee') in 0.011844 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.005144 seconds.
+Registered in 0.003292 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.76 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.70 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.897 seconds
+- Completed reload, in  0.889 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.70 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3004 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 228.0 MB.
-System memory in use after: 228.2 MB.
+System memory in use before: 214.1 MB.
+System memory in use after: 214.3 MB.
 
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3583.
-Total: 2.353300 ms (FindLiveObjects: 0.302800 ms CreateObjectMapping: 0.143800 ms MarkObjects: 1.821700 ms  DeleteObjects: 0.083700 ms)
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3521.
+Total: 2.285300 ms (FindLiveObjects: 0.271300 ms CreateObjectMapping: 0.151300 ms MarkObjects: 1.767400 ms  DeleteObjects: 0.094000 ms)
 
-========================================================================
-Received Import Request.
-  Time since last request: 4307.330067 seconds.
-  path: Assets/Invector-3rdPersonController/ItemManager/Scripts
-  artifactKey: Guid(7266fc6c85300124aad67cf0a368cbd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/ItemManager/Scripts using Guid(7266fc6c85300124aad67cf0a368cbd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95a68ffd00bce5f00df5f8dcd450b740') in 1.660395 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.006312 seconds.
+Registered in 0.003498 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.77 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.184 seconds
+- Completed reload, in  0.904 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.85 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3004 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 228.0 MB.
-System memory in use after: 228.2 MB.
+System memory in use before: 214.1 MB.
+System memory in use after: 214.3 MB.
 
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3586.
-Total: 3.102600 ms (FindLiveObjects: 0.500200 ms CreateObjectMapping: 0.283100 ms MarkObjects: 2.214100 ms  DeleteObjects: 0.103800 ms)
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3524.
+Total: 2.482100 ms (FindLiveObjects: 0.278700 ms CreateObjectMapping: 0.167400 ms MarkObjects: 1.952400 ms  DeleteObjects: 0.082600 ms)
 
-========================================================================
-Received Import Request.
-  Time since last request: 397.435948 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/3DModels/Particles/Materials/capsule_pist.mat
-  artifactKey: Guid(8426eee56b825664594bb6d0d1678a1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/3DModels/Particles/Materials/capsule_pist.mat using Guid(8426eee56b825664594bb6d0d1678a1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dad19feb34b12e3c20b28ab4e6578ac6') in 0.070452 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 3.443596 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/3DModels/Particles/Materials/fire.mat
-  artifactKey: Guid(d8603b41eb2844649b9e02a41d1e1ad2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/3DModels/Particles/Materials/fire.mat using Guid(d8603b41eb2844649b9e02a41d1e1ad2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c6dd25593b41a37ff34b6f5280b51d0') in 0.042571 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.651064 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/3DModels/Particles/Materials/smoke_fire.mat
-  artifactKey: Guid(23a81faf40912804b936f5f2e5bf8ba8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/3DModels/Particles/Materials/smoke_fire.mat using Guid(23a81faf40912804b936f5f2e5bf8ba8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b521ff245db201b5426d801d5da2f6a') in 0.018026 seconds 
 ========================================================================
 Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.005418 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.80 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 2.16 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.920 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.75 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3004 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 228.1 MB.
-System memory in use after: 228.3 MB.
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 154.7 MB.
+System memory in use after: 154.9 MB.
 
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3590.
-Total: 2.757500 ms (FindLiveObjects: 0.413700 ms CreateObjectMapping: 0.232000 ms MarkObjects: 2.030400 ms  DeleteObjects: 0.080000 ms)
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3524.
+Total: 3.379500 ms (FindLiveObjects: 0.377300 ms CreateObjectMapping: 0.270100 ms MarkObjects: 2.617400 ms  DeleteObjects: 0.113300 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.15 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 154.8 MB.
+System memory in use after: 155.1 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3524.
+Total: 2.999400 ms (FindLiveObjects: 0.287000 ms CreateObjectMapping: 0.143900 ms MarkObjects: 2.482500 ms  DeleteObjects: 0.085100 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.15 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 154.9 MB.
+System memory in use after: 155.1 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3524.
+Total: 2.613600 ms (FindLiveObjects: 0.292300 ms CreateObjectMapping: 0.165500 ms MarkObjects: 2.072400 ms  DeleteObjects: 0.082000 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.005020 seconds.
+Registered in 0.003398 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.73 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.74 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
 - Completed reload, in  0.918 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3004 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 228.1 MB.
-System memory in use after: 228.3 MB.
-
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3593.
-Total: 2.205400 ms (FindLiveObjects: 0.262300 ms CreateObjectMapping: 0.142400 ms MarkObjects: 1.723800 ms  DeleteObjects: 0.076000 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 728.760209 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/HUD/guide-texts/Materials/45.mat
-  artifactKey: Guid(400a32ebf1c71194aa9b95f31e6737cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/HUD/guide-texts/Materials/45.mat using Guid(400a32ebf1c71194aa9b95f31e6737cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79be00c82a50497a3d9573f16c9f4fd2') in 0.117599 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000372 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/HUD/guide-texts/50.png
-  artifactKey: Guid(d695f3421a335f44fba35c6b0348c93b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/HUD/guide-texts/50.png using Guid(d695f3421a335f44fba35c6b0348c93b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c59b794ac16fbef624b633d304aa4402') in 0.061232 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000290 seconds.
-  path: Assets/Invector-3rdPersonController/ItemManager/Textures/_inventory_keyboard.png
-  artifactKey: Guid(38b7236df3320d34a894bf00657ec767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/ItemManager/Textures/_inventory_keyboard.png using Guid(38b7236df3320d34a894bf00657ec767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd3c1c2ddcb849d1e246c645ac7184bb') in 0.047910 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000294 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/Prefabs/Others/_GenericActionExamples.prefab
-  artifactKey: Guid(b9b8847a48954e045a55b635c76fd813) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/Prefabs/Others/_GenericActionExamples.prefab using Guid(b9b8847a48954e045a55b635c76fd813) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efca0870effcc522bc6a0aa87acabd97') in 0.837151 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000286 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/HUD/guide-texts/Materials/50.mat
-  artifactKey: Guid(57928c61a9fa660488b68a6aeb2b26d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/HUD/guide-texts/Materials/50.mat using Guid(57928c61a9fa660488b68a6aeb2b26d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f3fe75a581e32fac19019e3b5ee9309') in 0.054415 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000373 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/HUD/guide-texts/Materials/60.mat
-  artifactKey: Guid(d9d20ea683682844287d1d50dfbf2572) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/HUD/guide-texts/Materials/60.mat using Guid(d9d20ea683682844287d1d50dfbf2572) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f8937f9feeea8a073cb20aa656b5d69') in 0.076142 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000337 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/HUD/guide-texts/60.png
-  artifactKey: Guid(c35bc16648d8c174cbdf3d1f27543c05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/HUD/guide-texts/60.png using Guid(c35bc16648d8c174cbdf3d1f27543c05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4f3ab066c803a5eb2bd0886e84369f3') in 0.010986 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000237 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/HUD/guide-texts/45.png
-  artifactKey: Guid(683daa4b3f8bc76448cbd697bd2a0a21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/HUD/guide-texts/45.png using Guid(683daa4b3f8bc76448cbd697bd2a0a21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83cfd073e6422c1b317ba02da91bf429') in 0.010014 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000308 seconds.
-  path: Assets/Invector-3rdPersonController/ItemManager/Textures/_inventory_xbox-D-pad.png
-  artifactKey: Guid(5ba297a90e9a8b4498d21a648fb38a44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/ItemManager/Textures/_inventory_xbox-D-pad.png using Guid(5ba297a90e9a8b4498d21a648fb38a44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47bec209b3a64126eb995a22d7f8daa8') in 0.013028 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000320 seconds.
-  path: Assets/_Prefabs/===Level===.prefab
-  artifactKey: Guid(0eba65a9192299f468d9e0b54315359f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Prefabs/===Level===.prefab using Guid(0eba65a9192299f468d9e0b54315359f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae73cf893a70634946cdbba661eb5af6') in 0.088708 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000336 seconds.
-  path: Assets/_Prefabs/===Objects===.prefab
-  artifactKey: Guid(c27212537fb064c4090a628840a87f3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Prefabs/===Objects===.prefab using Guid(c27212537fb064c4090a628840a87f3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38df272745c04369f5553af838bb469f') in 0.136119 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.005155 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.873 seconds
-Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.71 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3009 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 231.9 MB.
-System memory in use after: 232.1 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3680.
-Total: 5.820000 ms (FindLiveObjects: 0.741600 ms CreateObjectMapping: 0.417300 ms MarkObjects: 4.565200 ms  DeleteObjects: 0.094500 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004759 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.74 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.911 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.70 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3004 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 231.8 MB.
-System memory in use after: 232.0 MB.
+System memory in use before: 214.3 MB.
+System memory in use after: 214.5 MB.
 
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3683.
-Total: 2.332600 ms (FindLiveObjects: 0.274500 ms CreateObjectMapping: 0.134200 ms MarkObjects: 1.843700 ms  DeleteObjects: 0.079400 ms)
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3527.
+Total: 2.321300 ms (FindLiveObjects: 0.314500 ms CreateObjectMapping: 0.145900 ms MarkObjects: 1.775700 ms  DeleteObjects: 0.084100 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.005078 seconds.
+Registered in 0.003275 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.68 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
 - Completed reload, in  0.874 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.68 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.72 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3004 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 231.9 MB.
-System memory in use after: 232.1 MB.
+System memory in use before: 214.3 MB.
+System memory in use after: 214.5 MB.
 
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3686.
-Total: 2.682300 ms (FindLiveObjects: 0.294100 ms CreateObjectMapping: 0.134300 ms MarkObjects: 2.173700 ms  DeleteObjects: 0.078900 ms)
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3530.
+Total: 2.289000 ms (FindLiveObjects: 0.291800 ms CreateObjectMapping: 0.164400 ms MarkObjects: 1.745400 ms  DeleteObjects: 0.086300 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 1527.240096 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_bullets/vDefaultBullet.prefab
-  artifactKey: Guid(22773fb6a3ebd59429b49fd6e288058e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_bullets/vDefaultBullet.prefab using Guid(22773fb6a3ebd59429b49fd6e288058e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9b89b03bbe628f11b4031760b9dbaf0') in 0.080418 seconds 
+  Time since last request: 1340.338101 seconds.
+  path: Assets/_Prefabs/UI/Canvas Menu.prefab
+  artifactKey: Guid(3372f6e42e596734998757c5382fb148) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Prefabs/UI/Canvas Menu.prefab using Guid(3372f6e42e596734998757c5382fb148) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '180e0e6a548673af717e089ddf700bcb') in 0.051010 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 38.213559 seconds.
+  path: Assets/_Scenes/Menu.unity
+  artifactKey: Guid(949e279fc090ad947a88b299718c00b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Scenes/Menu.unity using Guid(949e279fc090ad947a88b299718c00b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dce3843a3e3f9365a342a41d9ba3eeec') in 0.005816 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.004931 seconds.
+Registered in 0.003401 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.896 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.72 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3004 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 214.4 MB.
+System memory in use after: 214.6 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3533.
+Total: 5.487200 ms (FindLiveObjects: 0.573300 ms CreateObjectMapping: 0.366800 ms MarkObjects: 4.378500 ms  DeleteObjects: 0.165700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 159.309973 seconds.
+  path: Assets/_Scenes/Cena 1.unity
+  artifactKey: Guid(2e16dd08b202ea14b940339d17b74804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Scenes/Cena 1.unity using Guid(2e16dd08b202ea14b940339d17b74804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '473eb2e28a61dba2fd4fbd5a91c21caf') in 0.014303 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003248 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 0.71 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.916 seconds
+- Completed reload, in  0.963 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.89 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3004 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 231.9 MB.
-System memory in use after: 232.1 MB.
+System memory in use before: 214.4 MB.
+System memory in use after: 214.6 MB.
 
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3690.
-Total: 2.574300 ms (FindLiveObjects: 0.315100 ms CreateObjectMapping: 0.187300 ms MarkObjects: 1.974200 ms  DeleteObjects: 0.079000 ms)
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3536.
+Total: 2.766000 ms (FindLiveObjects: 0.318500 ms CreateObjectMapping: 0.168800 ms MarkObjects: 2.191900 ms  DeleteObjects: 0.085900 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 311.006011 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_bullets/BulletLifeSettings.asset
-  artifactKey: Guid(537539c32a6167248b7005fa8612f575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_bullets/BulletLifeSettings.asset using Guid(537539c32a6167248b7005fa8612f575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'feeec6238b180549bedfcb82ad132260') in 0.025062 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.883892 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_bullets/vDefaultBullet.prefab
-  artifactKey: Guid(22773fb6a3ebd59429b49fd6e288058e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_bullets/vDefaultBullet.prefab using Guid(22773fb6a3ebd59429b49fd6e288058e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45f10ed02fb8887d16bd427655596105') in 0.070294 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 25.981552 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_weaponsPrefabs/vHandgun_Inventory.prefab
-  artifactKey: Guid(a0ef3c70b27799d409935f45a6537bb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_weaponsPrefabs/vHandgun_Inventory.prefab using Guid(a0ef3c70b27799d409935f45a6537bb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b466632aed994cbffc7201ed32eb570') in 0.073473 seconds 
+  Time since last request: 186.662872 seconds.
+  path: Assets/_Scenes/Menu.unity
+  artifactKey: Guid(949e279fc090ad947a88b299718c00b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Scenes/Menu.unity using Guid(949e279fc090ad947a88b299718c00b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6454c319219fdfa4d8189d79bfefb126') in 0.011969 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.006554 seconds.
+Registered in 0.003289 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.896 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.07 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3004 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 214.4 MB.
+System memory in use after: 214.6 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3539.
+Total: 3.532500 ms (FindLiveObjects: 0.562600 ms CreateObjectMapping: 0.379200 ms MarkObjects: 2.460300 ms  DeleteObjects: 0.128500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003671 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.919 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3004 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 214.4 MB.
+System memory in use after: 214.6 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3542.
+Total: 2.438400 ms (FindLiveObjects: 0.283000 ms CreateObjectMapping: 0.139700 ms MarkObjects: 1.929600 ms  DeleteObjects: 0.085100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003299 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.920 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.68 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3004 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 214.4 MB.
+System memory in use after: 214.6 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3545.
+Total: 5.239300 ms (FindLiveObjects: 0.493700 ms CreateObjectMapping: 0.341500 ms MarkObjects: 4.235400 ms  DeleteObjects: 0.165800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 786.022942 seconds.
+  path: Assets/_Materials/logo exos2.png
+  artifactKey: Guid(4bf86d73835ba5341baa8a055cc9388a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Materials/logo exos2.png using Guid(4bf86d73835ba5341baa8a055cc9388a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34cdd6d4cdd480cb00a07a735c27bff1') in 0.051929 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 23.639621 seconds.
+  path: Assets/_Materials/logo exos2.png
+  artifactKey: Guid(4bf86d73835ba5341baa8a055cc9388a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Materials/logo exos2.png using Guid(4bf86d73835ba5341baa8a055cc9388a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd7a21db69dc482748c90a6f259866d5') in 0.032423 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1361.066056 seconds.
+  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Particles/DamageEffect/materials/bloodSplash.mat
+  artifactKey: Guid(2d324f779821859488f2c38807d7f18d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Particles/DamageEffect/materials/bloodSplash.mat using Guid(2d324f779821859488f2c38807d7f18d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6cc4b9a4d6ad79ffe2242fe9002cf30') in 0.143566 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/_Materials/Chris Part 1.mat
+  artifactKey: Guid(7a8a277792ed68d4c866c039cde44eaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Materials/Chris Part 1.mat using Guid(7a8a277792ed68d4c866c039cde44eaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98e115a9d624d541a12b0c2ebc81636d') in 0.316216 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/_Materials/Chris Part 2.mat
+  artifactKey: Guid(134c6d144ae878940b7c6fb670028e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Materials/Chris Part 2.mat using Guid(134c6d144ae878940b7c6fb670028e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cc76b3e1c958d18f184573291a0cd2f') in 0.370235 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Invector-3rdPersonController/Shooter/3DModels/Particles/Materials/Bright_long.mat
+  artifactKey: Guid(6db293de3dfbd2b44b78b174b89c48f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/Shooter/3DModels/Particles/Materials/Bright_long.mat using Guid(6db293de3dfbd2b44b78b174b89c48f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7612516c78325bbe566774c61b5b7271') in 0.012616 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/_Materials/Chris Part 3.mat
+  artifactKey: Guid(03448042428ef2040a4a5a8e03bd76f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Materials/Chris Part 3.mat using Guid(03448042428ef2040a4a5a8e03bd76f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '517791dd03ce5aa6fff9605111376f5f') in 0.486713 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Invector-3rdPersonController/Shooter/3DModels/Textures/VbotBlackShooterEdition/BlackShooterEdition/Body.mat
+  artifactKey: Guid(d8bab0df5d3f0a045a31549c871c8e49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/Shooter/3DModels/Textures/VbotBlackShooterEdition/BlackShooterEdition/Body.mat using Guid(d8bab0df5d3f0a045a31549c871c8e49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaed106700e227682f3c882bf6e559eb') in 0.158813 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/_Materials/box.mat
+  artifactKey: Guid(acb87502830d8bb4d9705d766b9b78fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Materials/box.mat using Guid(acb87502830d8bb4d9705d766b9b78fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b1416fe5f406e7765eaf18f25882698') in 0.011623 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/Materials/blue_cube.mat
+  artifactKey: Guid(e214d4cadc22d544dae9aa451755af12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/Materials/blue_cube.mat using Guid(e214d4cadc22d544dae9aa451755af12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b81f09be1a9e606f63b4f7d25473ea40') in 0.024602 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Particles/DamageEffect/materials/bloodSplash 1.mat
+  artifactKey: Guid(e76ba17d8381af145b73e14a7e8586cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Particles/DamageEffect/materials/bloodSplash 1.mat using Guid(e76ba17d8381af145b73e14a7e8586cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91980c3a58950efd9e600c6f4982e59b') in 0.013720 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Invector-3rdPersonController/Shooter/3DModels/Particles/Materials/capsule_shotgun.mat
+  artifactKey: Guid(d8520d4b87af5bd48b84f8e3d6fc8caf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/Shooter/3DModels/Particles/Materials/capsule_shotgun.mat using Guid(d8520d4b87af5bd48b84f8e3d6fc8caf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8095ac8194392178a65866feae6fac0') in 0.018460 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/BodySnapSystem/Scripts/Editor/Resources/boneMaterial.mat
+  artifactKey: Guid(27344df4b0a8b3b45a50e864896e41cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/BodySnapSystem/Scripts/Editor/Resources/boneMaterial.mat using Guid(27344df4b0a8b3b45a50e864896e41cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ee3bdd859cfe6212154ce6e24e9210a') in 0.017571 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Invector-3rdPersonController/Shooter/3DModels/Props/cardboard/Textures/_Materials/box.mat
+  artifactKey: Guid(8ae4f004452074c4a9c75db349ed9aca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/Shooter/3DModels/Props/cardboard/Textures/_Materials/box.mat using Guid(8ae4f004452074c4a9c75db349ed9aca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d46525fbaaac0b5ee72db8c2baf5e90') in 0.133099 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Invector-3rdPersonController/Shooter/3DModels/Particles/Materials/capsule_rif.mat
+  artifactKey: Guid(4ceb2a723353b4c49a0e6824aab16ca8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/Shooter/3DModels/Particles/Materials/capsule_rif.mat using Guid(4ceb2a723353b4c49a0e6824aab16ca8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94bb7a65df7a35c22f235faf36a32b7d') in 0.011282 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/Invector-3rdPersonController/Shooter/3DModels/Props/bullets/materials/bulletCollectable.mat
+  artifactKey: Guid(e9bfd998f3f20bb40ac6c1f25bd49c7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/Shooter/3DModels/Props/bullets/materials/bulletCollectable.mat using Guid(e9bfd998f3f20bb40ac6c1f25bd49c7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9f524709f4855244a1915616008221c') in 0.011291 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Invector-3rdPersonController/Shooter/3DModels/Props/Materials/brick_COLOR.mat
+  artifactKey: Guid(1c053f2d496faf6408d3a0a79f6a24f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/Shooter/3DModels/Props/Materials/brick_COLOR.mat using Guid(1c053f2d496faf6408d3a0a79f6a24f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '656e3d1c14745519a6d6efdd67f81f69') in 0.342390 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/Textures/cement/Materials/cement_d.mat
+  artifactKey: Guid(55ebf8fa5d37e8b44a498b2eda491094) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/Textures/cement/Materials/cement_d.mat using Guid(55ebf8fa5d37e8b44a498b2eda491094) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ba3bb31bb8451276dc4beae9026ae98') in 0.083423 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/Textures/Brick/Materials/brick_COLOR.mat
+  artifactKey: Guid(82e803d7897a64947bd4876e0abc80aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/Textures/Brick/Materials/brick_COLOR.mat using Guid(82e803d7897a64947bd4876e0abc80aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40757fac9f7d54a844a316a87e48b757') in 0.384431 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003236 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.917 seconds
+- Completed reload, in  2.156 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.73 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3004 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 232.0 MB.
-System memory in use after: 232.2 MB.
+Unloading 3005 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 220.3 MB.
+System memory in use after: 220.5 MB.
 
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3694.
-Total: 2.930100 ms (FindLiveObjects: 0.460900 ms CreateObjectMapping: 0.230300 ms MarkObjects: 2.159600 ms  DeleteObjects: 0.078200 ms)
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3615.
+Total: 5.019700 ms (FindLiveObjects: 0.564000 ms CreateObjectMapping: 0.427700 ms MarkObjects: 3.870300 ms  DeleteObjects: 0.155800 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 6.694789 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_weaponsPrefabs/vHandgun_Inventory.prefab
-  artifactKey: Guid(a0ef3c70b27799d409935f45a6537bb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_weaponsPrefabs/vHandgun_Inventory.prefab using Guid(a0ef3c70b27799d409935f45a6537bb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa575df4d8e4f2b9b604d22e42fcd0b4') in 0.119679 seconds 
+  Time since last request: 203.199759 seconds.
+  path: Assets/Invector-3rdPersonController/ItemManager/Textures/Keyboard_White_Mouse_Simple.png
+  artifactKey: Guid(c25fca3c9a8c3b44cbce591a8822c17e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/ItemManager/Textures/Keyboard_White_Mouse_Simple.png using Guid(c25fca3c9a8c3b44cbce591a8822c17e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a69e36ba2947f9ed748f4b056036e65d') in 0.182467 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 4.079320 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_weaponsPrefabs/vHandgun_Inventory.prefab
-  artifactKey: Guid(a0ef3c70b27799d409935f45a6537bb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_weaponsPrefabs/vHandgun_Inventory.prefab using Guid(a0ef3c70b27799d409935f45a6537bb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c16ded1999c5efd12385db2a03ffe92') in 0.125785 seconds 
+  Time since last request: 0.000290 seconds.
+  path: Assets/Invector-3rdPersonController/Basic Locomotion/HUD/keyboardIcons/keyboardControls_v2.png
+  artifactKey: Guid(ea0d838cbf6720f4e8559bf42912aa62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/Basic Locomotion/HUD/keyboardIcons/keyboardControls_v2.png using Guid(ea0d838cbf6720f4e8559bf42912aa62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13f3755b318f82945720a78a3aa76115') in 0.015407 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Invector-3rdPersonController/Shooter/Scripts/ThrowSystem/UI/keyboardvTopDownShooter.png
+  artifactKey: Guid(4cbd26b615548284e84676490622516c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/Shooter/Scripts/ThrowSystem/UI/keyboardvTopDownShooter.png using Guid(4cbd26b615548284e84676490622516c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad9092e8cdaa4dffad0f0bce0134e840') in 0.053830 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Invector-3rdPersonController/Basic Locomotion/Resources/loading.png
+  artifactKey: Guid(9e1b5a4c48cc7aa4c9766432d52f1ea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/Basic Locomotion/Resources/loading.png using Guid(9e1b5a4c48cc7aa4c9766432d52f1ea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5f925f3698fa682b6c2707321f85905') in 0.013658 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Invector-3rdPersonController/Melee Combat/Resources/meleeLogo.png
+  artifactKey: Guid(bd0016d65407db7428ef203c702535b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/Melee Combat/Resources/meleeLogo.png using Guid(bd0016d65407db7428ef203c702535b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27f59237fb1a4bc4a292fcbb02c5ed67') in 0.014618 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/Invector-3rdPersonController/Shooter/3DModels/Textures/UITextures/keyboardIcon.png
+  artifactKey: Guid(89909ec7194cc2141b3776104b263b79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/Shooter/3DModels/Textures/UITextures/keyboardIcon.png using Guid(89909ec7194cc2141b3776104b263b79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2c57f8ced956c9d7dc6d349177ee7a2') in 0.013881 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Invector-3rdPersonController/Basic Locomotion/Resources/keyboardIcon 1.png
+  artifactKey: Guid(1f9337c1d2ba9ed48b90d23ca13f4715) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/Basic Locomotion/Resources/keyboardIcon 1.png using Guid(1f9337c1d2ba9ed48b90d23ca13f4715) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87e318089e030665982d8084e0ec7ffd') in 0.022828 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/Invector-3rdPersonController/ItemManager/Icons/MeleeIcon.png
+  artifactKey: Guid(217b370c97568eb4abf97e23a136e318) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/ItemManager/Icons/MeleeIcon.png using Guid(217b370c97568eb4abf97e23a136e318) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f501dc312dbe25e8601d727b41924e20') in 0.041384 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Invector-3rdPersonController/Basic Locomotion/HUD/mobile/lineDark46.png
+  artifactKey: Guid(1c0fa2802471d574ab97379dd63bbd16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/Basic Locomotion/HUD/mobile/lineDark46.png using Guid(1c0fa2802471d574ab97379dd63bbd16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9453322433000df5acc727d3a8011eea') in 0.048438 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Invector-3rdPersonController/Shooter/3DModels/Textures/UITextures/keyboardShooterControls.png
+  artifactKey: Guid(7e93ebcf097a837479e74d3fe803e056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/Shooter/3DModels/Textures/UITextures/keyboardShooterControls.png using Guid(7e93ebcf097a837479e74d3fe803e056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4ce8dde8903a123233e3ffc3a86bc12') in 0.051530 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Invector-3rdPersonController/Basic Locomotion/HUD/mobile/lineDark06.png
+  artifactKey: Guid(b7fadf3c6a3726645b18439c1b32de28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/Basic Locomotion/HUD/mobile/lineDark06.png using Guid(b7fadf3c6a3726645b18439c1b32de28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2de6eaf9339fd03da3559eed72af0ed') in 0.030013 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Invector-3rdPersonController/Melee Combat/Scripts/LockOn/Textures/lockOnSprite.png
+  artifactKey: Guid(b10e654cb30db34489b832dbfbb54370) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/Melee Combat/Scripts/LockOn/Textures/lockOnSprite.png using Guid(b10e654cb30db34489b832dbfbb54370) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5cc6843ae8afa8b1a18d239b8414015') in 0.035075 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Invector-3rdPersonController/Shooter/3DModels/Textures/UITextures/LaserAim.png
+  artifactKey: Guid(73c9a86b90e92a148a822ebc17402d36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/Shooter/3DModels/Textures/UITextures/LaserAim.png using Guid(73c9a86b90e92a148a822ebc17402d36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be887ea849f9ce771839c4928062bbaf') in 0.012457 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.766579 seconds.
+  path: Assets/Invector-3rdPersonController/ItemManager/Textures/Keyboard_Black_I.png
+  artifactKey: Guid(7b03cee1b4c74434e952bd611f55d002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/ItemManager/Textures/Keyboard_Black_I.png using Guid(7b03cee1b4c74434e952bd611f55d002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59fe5360a33a725c03601ed5c03ed1eb') in 0.121919 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Invector-3rdPersonController/ItemManager/Textures/Keyboard_Black_Q.png
+  artifactKey: Guid(5c4eb2907aba99244aa56c74786e8afb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/ItemManager/Textures/Keyboard_Black_Q.png using Guid(5c4eb2907aba99244aa56c74786e8afb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91c0008bb11f2f5efd6eca0f4d4b25d1') in 0.036660 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Invector-3rdPersonController/ItemManager/Textures/Keyboard_Black_Esc.png
+  artifactKey: Guid(00be83b6072dcb54d99b77cad2982277) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/ItemManager/Textures/Keyboard_Black_Esc.png using Guid(00be83b6072dcb54d99b77cad2982277) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47b85878f60d9aad0f71b86a88d4d62b') in 0.011320 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Invector-3rdPersonController/Basic Locomotion/Resources/Keyboard_Black_U.png
+  artifactKey: Guid(7afdc4138a2d3954a85fa1be88e341b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/Basic Locomotion/Resources/Keyboard_Black_U.png using Guid(7afdc4138a2d3954a85fa1be88e341b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0187fce1abf71e977248d63ab4a41e00') in 0.011029 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Invector-3rdPersonController/ItemManager/Textures/Keyboard_Black_Arrow_Right.png
+  artifactKey: Guid(5937e0a1fae2518418d2a419ebdae64d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/ItemManager/Textures/Keyboard_Black_Arrow_Right.png using Guid(5937e0a1fae2518418d2a419ebdae64d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1371a4003151aefdaa917a56cccac5b4') in 0.011717 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Invector-3rdPersonController/ItemManager/Textures/Keyboard_Black_Arrow_Up.png
+  artifactKey: Guid(28160f83aa367fc49b109808c53d3372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/ItemManager/Textures/Keyboard_Black_Arrow_Up.png using Guid(28160f83aa367fc49b109808c53d3372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37d4a8ba3fd5cee9ac116f16e75f53ea') in 0.027203 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Invector-3rdPersonController/Basic Locomotion/Resources/Keyboard_Black_V.png
+  artifactKey: Guid(9165c128c0f37d147b31bec0223206b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/Basic Locomotion/Resources/Keyboard_Black_V.png using Guid(9165c128c0f37d147b31bec0223206b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ddcf42f69deee60385e68955ff2465e') in 0.011219 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Invector-3rdPersonController/ItemManager/Textures/Keyboard_White_Mouse_Right.png
+  artifactKey: Guid(b7846239ccacd9e468eb2a5a4f7ae7fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/ItemManager/Textures/Keyboard_White_Mouse_Right.png using Guid(b7846239ccacd9e468eb2a5a4f7ae7fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '960754a023285ded6e154524effb7265') in 0.012132 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/Invector-3rdPersonController/ItemManager/Textures/Keyboard_Black_E.png
+  artifactKey: Guid(7d624e48b1aa5c44f907f1c545fa1654) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/ItemManager/Textures/Keyboard_Black_E.png using Guid(7d624e48b1aa5c44f907f1c545fa1654) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59babe5bcc315d44aacf7b9f5edda3d0') in 0.034521 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Invector-3rdPersonController/Basic Locomotion/Resources/Keyboard_Black_B.png
+  artifactKey: Guid(fb3a7deebf9b82147846645ea244ddf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/Basic Locomotion/Resources/Keyboard_Black_B.png using Guid(fb3a7deebf9b82147846645ea244ddf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72ba9e1f246f0c56dde1c0f85019bb5d') in 0.011052 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Invector-3rdPersonController/ItemManager/Textures/Keyboard_Black_Backspace.png
+  artifactKey: Guid(712aaad2e394b5c4bb43d77eb4ae85b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/ItemManager/Textures/Keyboard_Black_Backspace.png using Guid(712aaad2e394b5c4bb43d77eb4ae85b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82250a214d4da54a91651243a114512d') in 0.038178 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Invector-3rdPersonController/ItemManager/Textures/Keyboard_White_Mouse_Left.png
+  artifactKey: Guid(aec9f2ee0b044c14a98913380c6170b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/ItemManager/Textures/Keyboard_White_Mouse_Left.png using Guid(aec9f2ee0b044c14a98913380c6170b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1afc2f94a787fd098ec3299080693da') in 0.011473 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Invector-3rdPersonController/ItemManager/Textures/Keyboard_Black_Enter.png
+  artifactKey: Guid(6c52922bf5c10f94eb995d36fbedd5a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/ItemManager/Textures/Keyboard_Black_Enter.png using Guid(6c52922bf5c10f94eb995d36fbedd5a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79dbf0545f6ee16133ded3cf73a4b4bf') in 0.036294 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Invector-3rdPersonController/ItemManager/Textures/Keyboard_White_Mouse_Middle.png
+  artifactKey: Guid(7317afbbb618b4949a56607ceefa7ed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/ItemManager/Textures/Keyboard_White_Mouse_Middle.png using Guid(7317afbbb618b4949a56607ceefa7ed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '245c7d4f8e34ffecf2e8b7caa6a2a63f') in 0.015858 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.315828 seconds.
+  path: Assets/Invector-3rdPersonController/ItemManager/Icons/pause_icon.png
+  artifactKey: Guid(4b1aff25c15d748439ca89d4759edc58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/ItemManager/Icons/pause_icon.png using Guid(4b1aff25c15d748439ca89d4759edc58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a086414d87191069b5a5e67ed1195016') in 0.113793 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Invector-3rdPersonController/ItemManager/Textures/New UI/radial_shadow.png
+  artifactKey: Guid(e5b85f980b56dd64f8f9109ddc078f09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/ItemManager/Textures/New UI/radial_shadow.png using Guid(e5b85f980b56dd64f8f9109ddc078f09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd04ba26f1d80bc379740f6c4c6376c63') in 0.013526 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.008406 seconds.
+  path: Assets/Invector-3rdPersonController/ItemManager/Icons/remove_icon.png
+  artifactKey: Guid(c6a573918d6a9124bbbc89fd7959b44d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/ItemManager/Icons/remove_icon.png using Guid(c6a573918d6a9124bbbc89fd7959b44d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d07e1b2e98b5f8a361badbf190866ba') in 0.115854 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Invector-3rdPersonController/ItemManager/Icons/Shooter/rifleAmmoIcon.png
+  artifactKey: Guid(fc600eda6c11cf04fb712723821bd0f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/ItemManager/Icons/Shooter/rifleAmmoIcon.png using Guid(fc600eda6c11cf04fb712723821bd0f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e440f4e1f2ba4ed2ab3080934072da26') in 0.051328 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Invector-3rdPersonController/ItemManager/Icons/Shooter/rifleIcon.png
+  artifactKey: Guid(c9bcb3ac64db75147b5fde5864fdfcb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/ItemManager/Icons/Shooter/rifleIcon.png using Guid(c9bcb3ac64db75147b5fde5864fdfcb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a52851f85681fb6621e7560e4d4d1b75') in 0.013363 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Invector-3rdPersonController/ItemManager/Icons/Shooter/rpgIcon.png
+  artifactKey: Guid(89ba1f6f55195c944aad86c1767dfe52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/ItemManager/Icons/Shooter/rpgIcon.png using Guid(89ba1f6f55195c944aad86c1767dfe52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '866ff9dd53e73dacd25effcf62f5993b') in 0.015152 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Invector-3rdPersonController/ItemManager/Icons/Shooter/rpgAmmo_icon.png
+  artifactKey: Guid(7799f4e3c66ec9b47a45552ab162ea87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/ItemManager/Icons/Shooter/rpgAmmo_icon.png using Guid(7799f4e3c66ec9b47a45552ab162ea87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d0316507faed775c373374e74c6d591') in 0.012763 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.522381 seconds.
+  path: Assets/Invector-3rdPersonController/Shooter/3DModels/Textures/UITextures/scopeMask.psd
+  artifactKey: Guid(05e9f75981229cc42bf698bde36dd83c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/Shooter/3DModels/Textures/UITextures/scopeMask.psd using Guid(05e9f75981229cc42bf698bde36dd83c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3bcfe95e08aae5421a6ee8a680a6cae') in 0.122921 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Invector-3rdPersonController/ItemManager/Icons/Shooter/sniperAmmo_icon.png
+  artifactKey: Guid(38df296fcdf156f46bdb7a40cc3359b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/ItemManager/Icons/Shooter/sniperAmmo_icon.png using Guid(38df296fcdf156f46bdb7a40cc3359b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbd06f6d5c79eaad60791bfab43f63ed') in 0.013484 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Invector-3rdPersonController/Basic Locomotion/Resources/small_circle.png
+  artifactKey: Guid(e45c74350211d0a4595cd1bd0158fe0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/Basic Locomotion/Resources/small_circle.png using Guid(e45c74350211d0a4595cd1bd0158fe0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8afa0812d883cbc1ce25827f52e3db58') in 0.020378 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/Invector-3rdPersonController/ItemManager/Icons/Melee/shield.png
+  artifactKey: Guid(40e348f6451ddf7438089a59a033e57f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/ItemManager/Icons/Melee/shield.png using Guid(40e348f6451ddf7438089a59a033e57f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1146a565add6e11607e6089c108f9203') in 0.015376 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Invector-3rdPersonController/ItemManager/Icons/Shooter/shotgunIcon.png
+  artifactKey: Guid(0cf8e5588722acf40bfed44d2b39a429) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/ItemManager/Icons/Shooter/shotgunIcon.png using Guid(0cf8e5588722acf40bfed44d2b39a429) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8281cba9c3af26e9ebf0e8d5df0aaa68') in 0.014765 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Invector-3rdPersonController/ItemManager/Textures/selector.png
+  artifactKey: Guid(8fd63fe471a60144db50f65bddcccb91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/ItemManager/Textures/selector.png using Guid(8fd63fe471a60144db50f65bddcccb91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8757e614066ae33a6210440e5ac930d') in 0.011887 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Invector-3rdPersonController/ItemManager/Icons/ShooterMeleeIcon.png
+  artifactKey: Guid(8dc51cda0181c2d43b33a9c9eb0be2c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/ItemManager/Icons/ShooterMeleeIcon.png using Guid(8dc51cda0181c2d43b33a9c9eb0be2c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f9fe57c542079ec47ec1c82e7e49991') in 0.039958 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Invector-3rdPersonController/ItemManager/Icons/slot_bg.png
+  artifactKey: Guid(0c1b7e594895f664c9398cae0d1ff726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/ItemManager/Icons/slot_bg.png using Guid(0c1b7e594895f664c9398cae0d1ff726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e35f04647522a63bd206e25d9923be26') in 0.013030 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/Invector-3rdPersonController/ItemManager/Icons/Melee/shooter_area.png
+  artifactKey: Guid(7d647db06c901bd44af4ddee4d3a9057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/ItemManager/Icons/Melee/shooter_area.png using Guid(7d647db06c901bd44af4ddee4d3a9057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d824ff87736e26356a99f777b0688ac') in 0.044167 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Invector-3rdPersonController/ItemManager/Icons/Shooter/shotgunAmmo_icon.png
+  artifactKey: Guid(84a9728ecf8756d42985f612cb2e1cf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/ItemManager/Icons/Shooter/shotgunAmmo_icon.png using Guid(84a9728ecf8756d42985f612cb2e1cf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0a53de911fb378c0ad254f208028103') in 0.014088 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Invector-3rdPersonController/ItemManager/Icons/Shooter/sniperIcon.png
+  artifactKey: Guid(71509c5d804e82d4bab6ecd153b20f9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/ItemManager/Icons/Shooter/sniperIcon.png using Guid(71509c5d804e82d4bab6ecd153b20f9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2242644fd1929d32aae4d949f1cb641') in 0.013342 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Invector-3rdPersonController/Shooter/3DModels/Textures/UITextures/shooterLogo.png
+  artifactKey: Guid(2cf1d9237002999418bd8c16a6c1398d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/Shooter/3DModels/Textures/UITextures/shooterLogo.png using Guid(2cf1d9237002999418bd8c16a6c1398d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '989597edaa9ee38fa638941e00d23667') in 0.061442 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Invector-3rdPersonController/ItemManager/Icons/selector.png
+  artifactKey: Guid(e751a9395bf54bb4a911f98880728976) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/ItemManager/Icons/selector.png using Guid(e751a9395bf54bb4a911f98880728976) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da60eb7e9e39afa30cf912cee172b495') in 0.038902 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Invector-3rdPersonController/ItemManager/Icons/Shooter/sniperCrossHair.png
+  artifactKey: Guid(a2adaa3af0ef3874cbb557c21520006f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/ItemManager/Icons/Shooter/sniperCrossHair.png using Guid(a2adaa3af0ef3874cbb557c21520006f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '723a4bd77e0a2d3150af3d5ca2a876df') in 0.012690 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.201194 seconds.
+  path: Assets/Invector-3rdPersonController/Basic Locomotion/Resources/stealthKillAddon.png
+  artifactKey: Guid(5f31421fa86e2154995a12ee87a8d724) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/Basic Locomotion/Resources/stealthKillAddon.png using Guid(5f31421fa86e2154995a12ee87a8d724) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '324c31ccadf1658773cb8664caf1fff3') in 0.018177 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Invector-3rdPersonController/ItemManager/Icons/Shooter/vRifleIcon.png
+  artifactKey: Guid(f6cfffab8b48ab1498161d83bea40058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/ItemManager/Icons/Shooter/vRifleIcon.png using Guid(f6cfffab8b48ab1498161d83bea40058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2fa812240c563a642d65e9d896eb221') in 0.013108 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Invector-3rdPersonController/Shooter/Scripts/ThrowSystem/UI/vGrenadeIcon.png
+  artifactKey: Guid(e92d4b1aedf1efa429a5fa9fc67f8433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/Shooter/Scripts/ThrowSystem/UI/vGrenadeIcon.png using Guid(e92d4b1aedf1efa429a5fa9fc67f8433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7842c0511611a67a388d9f5cbba7b818') in 0.095367 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Invector-3rdPersonController/ItemManager/Icons/Melee/sword_area.png
+  artifactKey: Guid(edb5dd032a23d534bb6e0d31e06f52c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/ItemManager/Icons/Melee/sword_area.png using Guid(edb5dd032a23d534bb6e0d31e06f52c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11b574bc165d0be24e33be31a579876b') in 0.055507 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Invector-3rdPersonController/ItemManager/Icons/Melee/V_potion_health.png
+  artifactKey: Guid(862e9f0d31ea667448a05c4d0ec24492) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/ItemManager/Icons/Melee/V_potion_health.png using Guid(862e9f0d31ea667448a05c4d0ec24492) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '103a8f709b8153ba673837622bbf6fd3') in 0.013969 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Invector-3rdPersonController/ItemManager/Icons/vKeyCards.png
+  artifactKey: Guid(72f7d3138d397a94d82105b26272e764) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/ItemManager/Icons/vKeyCards.png using Guid(72f7d3138d397a94d82105b26272e764) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e93453b7bac1e681fb38bfef2f997c1') in 0.026237 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Invector-3rdPersonController/Basic Locomotion/Resources/ziplineAddon.png
+  artifactKey: Guid(3452659944bfdcf488f124b38b39f1e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/Basic Locomotion/Resources/ziplineAddon.png using Guid(3452659944bfdcf488f124b38b39f1e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b780ea4ee160b2368a0dde8cc87bf19a') in 0.016172 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Invector-3rdPersonController/ItemManager/Icons/Melee/weapons_area.png
+  artifactKey: Guid(50ceb2e453baaf0498dbe871b0ec074d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/ItemManager/Icons/Melee/weapons_area.png using Guid(50ceb2e453baaf0498dbe871b0ec074d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0482605b25a5044855b3d9389cf91204') in 0.034020 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Invector-3rdPersonController/ItemManager/Icons/Melee/unarmedIcon.png
+  artifactKey: Guid(9fc903a211cc80e4a94ec6c551eefe37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Invector-3rdPersonController/ItemManager/Icons/Melee/unarmedIcon.png using Guid(9fc903a211cc80e4a94ec6c551eefe37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e94e2c9bf08a50b9de5a3552c20bd64') in 0.041604 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.006512 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.88 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.165 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.00 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3004 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 232.0 MB.
-System memory in use after: 232.2 MB.
-
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3698.
-Total: 3.396400 ms (FindLiveObjects: 0.412700 ms CreateObjectMapping: 0.260300 ms MarkObjects: 2.646300 ms  DeleteObjects: 0.075800 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 56.388368 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_bullets/vDefaultBullet.prefab
-  artifactKey: Guid(22773fb6a3ebd59429b49fd6e288058e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_bullets/vDefaultBullet.prefab using Guid(22773fb6a3ebd59429b49fd6e288058e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acff72e10a9e5d17cfacb0c02f20eb08') in 0.095840 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 19.472538 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_weaponsPrefabs/vShotgun_Inventory.prefab
-  artifactKey: Guid(e53efed3927a7254aa010f9c6752223c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_weaponsPrefabs/vShotgun_Inventory.prefab using Guid(e53efed3927a7254aa010f9c6752223c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7fd5f4f4626d276ba3da6be807b0624') in 0.141070 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.674634 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_weaponsPrefabs/vShotgun_Inventory.prefab
-  artifactKey: Guid(e53efed3927a7254aa010f9c6752223c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_weaponsPrefabs/vShotgun_Inventory.prefab using Guid(e53efed3927a7254aa010f9c6752223c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b44d89179b3f6468a90d8d2149ad1768') in 0.166038 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 9.220250 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_weaponsPrefabs/vHandgun_Inventory.prefab
-  artifactKey: Guid(a0ef3c70b27799d409935f45a6537bb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_weaponsPrefabs/vHandgun_Inventory.prefab using Guid(a0ef3c70b27799d409935f45a6537bb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '614716769f76fb918541b03adabc3ef0') in 0.043944 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 10.894070 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_collectables
-  artifactKey: Guid(60e0aa4071cc821428a3f6974a7df199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_collectables using Guid(60e0aa4071cc821428a3f6974a7df199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bd1bf36c3bee6ba01ad273c3f9219d5') in 0.116534 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004870 seconds.
+Registered in 0.003373 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.891 seconds
+- Completed reload, in  0.923 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.75 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3004 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 232.0 MB.
-System memory in use after: 232.2 MB.
+Unloading 3061 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 267.6 MB.
+System memory in use after: 267.8 MB.
 
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3702.
-Total: 2.648400 ms (FindLiveObjects: 0.326000 ms CreateObjectMapping: 0.188800 ms MarkObjects: 2.057700 ms  DeleteObjects: 0.074700 ms)
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 4500.
+Total: 5.840100 ms (FindLiveObjects: 0.694800 ms CreateObjectMapping: 0.390100 ms MarkObjects: 4.559700 ms  DeleteObjects: 0.193600 ms)
 
-========================================================================
-Received Import Request.
-  Time since last request: 69.095195 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_bullets/vMobileBullet.prefab
-  artifactKey: Guid(1db2225b4dce58e409c91aea33a95291) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_bullets/vMobileBullet.prefab using Guid(1db2225b4dce58e409c91aea33a95291) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00516d1070985f2b576904dab3f6e5bf') in 0.076832 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 93.092846 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_bullets/vDefaultBullet.prefab
-  artifactKey: Guid(22773fb6a3ebd59429b49fd6e288058e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_bullets/vDefaultBullet.prefab using Guid(22773fb6a3ebd59429b49fd6e288058e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32a9c702b70942f94844fc1bfc52771a') in 0.030651 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004958 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.68 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.934 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.83 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3004 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 232.0 MB.
-System memory in use after: 232.2 MB.
-
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3706.
-Total: 2.516400 ms (FindLiveObjects: 0.302400 ms CreateObjectMapping: 0.161700 ms MarkObjects: 1.980500 ms  DeleteObjects: 0.070900 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 41.094467 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_weaponsPrefabs/vHandgun_Inventory.prefab
-  artifactKey: Guid(a0ef3c70b27799d409935f45a6537bb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/Prefabs/Weapon/_weapons_WITH_Inventory/_weaponsPrefabs/vHandgun_Inventory.prefab using Guid(a0ef3c70b27799d409935f45a6537bb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60bc3a5283aaa9c2c7fd9fec49c8be3b') in 0.124886 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004966 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.36 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.938 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.70 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3004 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 232.0 MB.
-System memory in use after: 232.2 MB.
-
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3710.
-Total: 5.418700 ms (FindLiveObjects: 0.609700 ms CreateObjectMapping: 0.389500 ms MarkObjects: 4.259800 ms  DeleteObjects: 0.157400 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.005108 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.82 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.944 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3004 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 232.0 MB.
-System memory in use after: 232.2 MB.
-
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3713.
-Total: 2.599200 ms (FindLiveObjects: 0.290300 ms CreateObjectMapping: 0.154700 ms MarkObjects: 2.079300 ms  DeleteObjects: 0.074200 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.006172 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.85 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.423 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.97 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3004 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 232.0 MB.
-System memory in use after: 232.3 MB.
-
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3716.
-Total: 4.026700 ms (FindLiveObjects: 0.293900 ms CreateObjectMapping: 0.157100 ms MarkObjects: 3.462200 ms  DeleteObjects: 0.112500 ms)
-
-AssetImportWorkerClient::OnTransportError - code=2 error=End of file
