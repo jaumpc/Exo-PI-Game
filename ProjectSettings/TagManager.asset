@@ -30,6 +30,7 @@ TagManager:
   - CoverPoint
   - Interactable
   - AIAction
+  - battery
   layers:
   - Default
   - TransparentFX
@@ -48,9 +49,9 @@ TagManager:
   - HeadTrack
   - BodyPart
   - BlockAIRayCast
-  - 
-  - 
-  - 
+  - WhatIsEnemy
+  - WhatIsGround
+  - WhatIsPlayer
   - 
   - 
   - 
