@@ -134,6 +134,7 @@ GameObject:
   - component: {fileID: 7434897483455586090}
   - component: {fileID: -7477144845446413772}
   - component: {fileID: 8237032533788516722}
+  - component: {fileID: 4109826199175758875}
   m_Layer: 17
   m_Name: Inimigo 01
   m_TagString: Untagged
@@ -307,7 +308,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   openCloseEvents: 0
   openCloseWindow: 1
-  selectedToolbar: 0
+  selectedToolbar: 1
   _isDead: 0
   _currentHealth: 100
   isImmortal: 0
@@ -322,13 +323,42 @@ MonoBehaviour:
       m_Calls: []
   _onDead:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 7434897483455586096}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   onChangeHealth:
     m_PersistentCalls:
       m_Calls: []
   onResetHealth:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &4109826199175758875
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7434897483455586096}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d3efef3ad62cd548b0f85eb11858ed1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  openCloseEvents: 0
+  openCloseWindow: 1
+  selectedToolbar: 0
+  defaultDamageEffect: {fileID: 110090, guid: 04dd09560119f3c48ba23669eb660db1, type: 3}
+  customDamageEffects: []
 --- !u!1001 &1000651264808682642
 PrefabInstance:
   m_ObjectHideFlags: 0

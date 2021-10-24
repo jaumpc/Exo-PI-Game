@@ -155,7 +155,7 @@ MonoBehaviour:
   debugTrajetory: 0
   debugHittedObject: 0
   damage:
-    damageValue: 0
+    damageValue: 20
     staminaBlockCost: 0
     staminaRecoveryDelay: 0
     ignoreDefense: 1
