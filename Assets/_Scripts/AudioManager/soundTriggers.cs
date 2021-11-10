@@ -7,7 +7,8 @@ public class soundTriggers : MonoBehaviour
 
 
     public AudioManager Audio;
-    public Collider m_collider;
+    //public Collider m_collider;
+    public GameObject self;
 
     
     
@@ -16,7 +17,8 @@ public class soundTriggers : MonoBehaviour
     private void OnTriggerEnter(Collider other)
     {
         Audio.Play("Faixa" + Audio.numFaixaAudio);
-        m_collider.enabled = false;
+        self.SetActive(false);
+        //m_collider.enabled = false;
         Audio.numFaixaAudio++;
         
             
