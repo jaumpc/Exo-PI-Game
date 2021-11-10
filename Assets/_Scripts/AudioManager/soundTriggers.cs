@@ -5,6 +5,7 @@ using UnityEngine;
 public class soundTriggers : MonoBehaviour
 {
 
+
     public AudioManager Audio;
     public Collider m_collider;
 
@@ -14,8 +15,10 @@ public class soundTriggers : MonoBehaviour
  
     private void OnTriggerEnter(Collider other)
     {
-        Audio.Play("Faixa01");
+        Audio.Play("Faixa" + Audio.numFaixaAudio);
         m_collider.enabled = false;
+        Audio.numFaixaAudio++;
+        
             
     }
 }

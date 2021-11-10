@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class AudioManager : MonoBehaviour
 {
-
+	public int numFaixaAudio = 1;
 	public static AudioManager instance;
 
 	public AudioMixerGroup mixerGroup;
