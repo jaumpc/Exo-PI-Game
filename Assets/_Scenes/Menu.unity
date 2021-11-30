@@ -2482,6 +2482,18 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &1542728172 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 355668628511347214, guid: 64822f4004c5fa846aa83e9671834f80,
+    type: 3}
+  m_PrefabInstance: {fileID: 1664198779}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25daa53c50270fa4bbb4415a309fad46, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1629839502
 GameObject:
   m_ObjectHideFlags: 0
@@ -2743,6 +2755,75 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1634636466}
   m_CullTransparentMesh: 1
+--- !u!1001 &1664198779
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 7911902118454703543, guid: 64822f4004c5fa846aa83e9671834f80,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7911902118454703543, guid: 64822f4004c5fa846aa83e9671834f80,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -10.500025
+      objectReference: {fileID: 0}
+    - target: {fileID: 7911902118454703543, guid: 64822f4004c5fa846aa83e9671834f80,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.4294814
+      objectReference: {fileID: 0}
+    - target: {fileID: 7911902118454703543, guid: 64822f4004c5fa846aa83e9671834f80,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 15.850612
+      objectReference: {fileID: 0}
+    - target: {fileID: 7911902118454703543, guid: 64822f4004c5fa846aa83e9671834f80,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7911902118454703543, guid: 64822f4004c5fa846aa83e9671834f80,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7911902118454703543, guid: 64822f4004c5fa846aa83e9671834f80,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7911902118454703543, guid: 64822f4004c5fa846aa83e9671834f80,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7911902118454703543, guid: 64822f4004c5fa846aa83e9671834f80,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7911902118454703543, guid: 64822f4004c5fa846aa83e9671834f80,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7911902118454703543, guid: 64822f4004c5fa846aa83e9671834f80,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8441793480553692070, guid: 64822f4004c5fa846aa83e9671834f80,
+        type: 3}
+      propertyPath: m_Name
+      value: LevelLoader
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 64822f4004c5fa846aa83e9671834f80, type: 3}
 --- !u!1001 &1718088481
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2874,7 +2955,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 4161617181232627303}
+      objectReference: {fileID: 0}
     - target: {fileID: 7582362251240212743, guid: aef61d2c908463240b018d0323ccde24,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
@@ -2903,12 +2984,12 @@ PrefabInstance:
     - target: {fileID: 7648608718015048617, guid: aef61d2c908463240b018d0323ccde24,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7648608718015048617, guid: aef61d2c908463240b018d0323ccde24,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7648608718015048617, guid: aef61d2c908463240b018d0323ccde24,
         type: 3}
@@ -2918,12 +2999,12 @@ PrefabInstance:
     - target: {fileID: 7648608718015048617, guid: aef61d2c908463240b018d0323ccde24,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 35
+      value: 15
       objectReference: {fileID: 0}
     - target: {fileID: 7648608718015048617, guid: aef61d2c908463240b018d0323ccde24,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -20
       objectReference: {fileID: 0}
     - target: {fileID: 7649089417875832559, guid: aef61d2c908463240b018d0323ccde24,
         type: 3}
@@ -3063,7 +3144,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 4161617181232627303}
+      - m_Target: {fileID: 1542728172}
         m_TargetAssemblyTypeName: SceneLoader, Assembly-CSharp
         m_MethodName: LoadNextLevel
         m_Mode: 1
@@ -3392,7 +3473,6 @@ GameObject:
   - component: {fileID: 4244436831632487076}
   - component: {fileID: 4076663506629615774}
   - component: {fileID: 4057951381582150800}
-  - component: {fileID: 4161617181232627303}
   m_Layer: 5
   m_Name: Spotlight Button Variant
   m_TagString: Untagged
@@ -3400,18 +3480,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &4161617181232627303
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4161617181232627302}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 25daa53c50270fa4bbb4415a309fad46, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &4161769609119010330
 GameObject:
   m_ObjectHideFlags: 0
@@ -3852,7 +3920,7 @@ Canvas:
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 0
   m_TargetDisplay: 0
 --- !u!114 &6981288240229705782
 MonoBehaviour:
