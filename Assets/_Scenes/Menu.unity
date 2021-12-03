@@ -2822,6 +2822,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: LevelLoader
       objectReference: {fileID: 0}
+    - target: {fileID: 8441793480553692070, guid: 64822f4004c5fa846aa83e9671834f80,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 64822f4004c5fa846aa83e9671834f80, type: 3}
 --- !u!1001 &1718088481
@@ -3189,7 +3194,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "COME\xC7AR HIST\xD3RIA"
+  m_Text: "MODO HIST\xD3RIA"
 --- !u!114 &4057951381582150800
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3301,7 +3306,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "COME\xC7AR HIST\xD3RIA"
+  m_Text: "MODO HIST\xD3RIA"
 --- !u!114 &4058296407558302586
 MonoBehaviour:
   m_ObjectHideFlags: 0
