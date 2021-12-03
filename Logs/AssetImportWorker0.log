@@ -15,11 +15,11 @@ D:/JP/Documents/Unity Projects/Exo-PI-Game
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-63842
+50011
 Successfully changed project path to: D:/JP/Documents/Unity Projects/Exo-PI-Game
 D:/JP/Documents/Unity Projects/Exo-PI-Game
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 129.51 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 112.66 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.3f1 (4bef613afd59)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/Resources/UnitySubsystems
@@ -37,910 +37,246 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56540
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56460
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001393 seconds.
+Registered in 0.001367 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 115.75 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 116.18 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.230 seconds
+- Completed reload, in  1.228 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.003145 seconds.
+Registered in 0.003371 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.82 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.79 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.644 seconds
+- Completed reload, in  1.688 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
 Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 1.74 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.79 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3163 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 221.3 MB.
-System memory in use after: 221.4 MB.
+Unloading 3165 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 224.8 MB.
+System memory in use after: 225.0 MB.
 
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3657.
-Total: 3.236200 ms (FindLiveObjects: 0.878000 ms CreateObjectMapping: 0.327700 ms MarkObjects: 1.905800 ms  DeleteObjects: 0.122800 ms)
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3664.
+Total: 2.225700 ms (FindLiveObjects: 0.245900 ms CreateObjectMapping: 0.142600 ms MarkObjects: 1.677600 ms  DeleteObjects: 0.158800 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/_Scripts/AudioManager/SoundTrigger01.cs
-  artifactKey: Guid(80cd57f65604ab74bb973ab31770b2b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Scripts/AudioManager/SoundTrigger01.cs using Guid(80cd57f65604ab74bb973ab31770b2b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4764ef73b8e45baf0500338a89915e4a') in 0.132242 seconds 
+  path: Assets/_Materials/Ship
+  artifactKey: Guid(c840cc1186f93ad47b7ab1ab71f6edf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Materials/Ship using Guid(c840cc1186f93ad47b7ab1ab71f6edf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e22265f259040ef99e89c38de88b21ec') in 0.013706 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 4.336400 seconds.
-  path: Assets/_Scripts/Focus.cs
-  artifactKey: Guid(e6382212ee321714c8621ff1692c47c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Scripts/Focus.cs using Guid(e6382212ee321714c8621ff1692c47c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6fdc709978a5588485a95f82e535bd6') in 0.058530 seconds 
+  Time since last request: 42.373966 seconds.
+  path: Assets/_Materials/Ship/janela_mat_AlbedoTransparency.png
+  artifactKey: Guid(09727929cedf532478285f0c04bf798f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Materials/Ship/janela_mat_AlbedoTransparency.png using Guid(09727929cedf532478285f0c04bf798f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6848347982c488f08e222a58bfad75d5') in 0.085406 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003324 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.443 seconds
+Platform modules already initialized, skipping
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3135 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 228.1 MB.
+System memory in use after: 228.3 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3684.
+Total: 2.454300 ms (FindLiveObjects: 0.280400 ms CreateObjectMapping: 0.158000 ms MarkObjects: 1.893400 ms  DeleteObjects: 0.121000 ms)
+
 ========================================================================
 Received Import Request.
-  Time since last request: 369.077340 seconds.
-  path: Assets/_Scenes/Cena Planeta vermelho.unity
-  artifactKey: Guid(f47650c364a37e145a6a13f7f260a75c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Scenes/Cena Planeta vermelho.unity using Guid(f47650c364a37e145a6a13f7f260a75c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad6efdb3ebf2ad51ae455773c30a1b1c') in 0.014741 seconds 
+  Time since last request: 325.574683 seconds.
+  path: Assets/_Materials/Ship/janela_mat_AO.png
+  artifactKey: Guid(31c64e3dd6b58174786f73f9d7abf8b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Materials/Ship/janela_mat_AO.png using Guid(31c64e3dd6b58174786f73f9d7abf8b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58886123abd4215dbc0e736fbd16e1af') in 0.039385 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 5.066714 seconds.
+  Time since last request: 2.857576 seconds.
+  path: Assets/_Materials/Ship/Ship_mat_Normal.png
+  artifactKey: Guid(183d9f564691bdd49ad0f2182e6ab249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Materials/Ship/Ship_mat_Normal.png using Guid(183d9f564691bdd49ad0f2182e6ab249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9653f849a179ae8fc80e00aecc334ea7') in 0.016542 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 25.893927 seconds.
+  path: Assets/_Materials/Ship/janela_mat_MetallicSmoothness.png
+  artifactKey: Guid(10b507915ad455d4da6a7d8816428164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Materials/Ship/janela_mat_MetallicSmoothness.png using Guid(10b507915ad455d4da6a7d8816428164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f7a80e90c18eff9ada1fc57ea2ff0ec') in 0.017749 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 33.774469 seconds.
+  path: Assets/_Models/Ship.fbx
+  artifactKey: Guid(5a2151636717b754e938b886d694127a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Models/Ship.fbx using Guid(5a2151636717b754e938b886d694127a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1def4ad17f0336b5dacc134631dd6319') in 0.096294 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 22.465920 seconds.
+  path: Assets/_Models/Ship.fbx
+  artifactKey: Guid(5a2151636717b754e938b886d694127a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Models/Ship.fbx using Guid(5a2151636717b754e938b886d694127a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbb2e412c30415f8a02464b4aa4f6d55') in 0.058791 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.897881 seconds.
+  path: Assets/_Models/Ship.fbx
+  artifactKey: Guid(5a2151636717b754e938b886d694127a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Models/Ship.fbx using Guid(5a2151636717b754e938b886d694127a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a0bb503817d28da896dbdd307e5c745') in 0.083129 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003600 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.501 seconds
+Platform modules already initialized, skipping
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3137 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 244.1 MB.
+System memory in use after: 244.3 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3774.
+Total: 5.770600 ms (FindLiveObjects: 0.543100 ms CreateObjectMapping: 0.372900 ms MarkObjects: 4.692200 ms  DeleteObjects: 0.160800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003338 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.499 seconds
+Platform modules already initialized, skipping
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3134 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 244.0 MB.
+System memory in use after: 244.2 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3777.
+Total: 2.827900 ms (FindLiveObjects: 0.349100 ms CreateObjectMapping: 0.193600 ms MarkObjects: 2.140900 ms  DeleteObjects: 0.142700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 468.744435 seconds.
+  path: Assets/_Animations/ShipBase.anim
+  artifactKey: Guid(e1f41e48ee7b1624eb102be3946e9dad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Animations/ShipBase.anim using Guid(e1f41e48ee7b1624eb102be3946e9dad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3add529d407a176e7be4a57db6de4181') in 0.022730 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003331 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.448 seconds
+Platform modules already initialized, skipping
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3134 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 244.0 MB.
+System memory in use after: 244.2 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3780.
+Total: 2.612600 ms (FindLiveObjects: 0.257900 ms CreateObjectMapping: 0.139900 ms MarkObjects: 2.070000 ms  DeleteObjects: 0.143600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 161.279062 seconds.
+  path: Assets/_Scenes/Cena 1.unity
+  artifactKey: Guid(2e16dd08b202ea14b940339d17b74804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Scenes/Cena 1.unity using Guid(2e16dd08b202ea14b940339d17b74804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4da9b1d37b4cb74040a7eb131fae23e3') in 0.014705 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.658836 seconds.
   path: Assets/_Scenes/Cena 2.unity
   artifactKey: Guid(f47650c364a37e145a6a13f7f260a75c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Scenes/Cena 2.unity using Guid(f47650c364a37e145a6a13f7f260a75c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '165e37411ea813fb1c68a78b8e70700e') in 0.006546 seconds 
+Start importing Assets/_Scenes/Cena 2.unity using Guid(f47650c364a37e145a6a13f7f260a75c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c86e2bdb7fabccee231045f218e88c5') in 0.005549 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 43.889588 seconds.
-  path: Assets/Prefabs/Rocks.prefab
-  artifactKey: Guid(06a8e8933f584e34d90969f7aa78e03a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Rocks.prefab using Guid(06a8e8933f584e34d90969f7aa78e03a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39fe7ba8f88b606f4f008fe5f57a11b6') in 0.469265 seconds 
+  Time since last request: 3.569612 seconds.
+  path: Assets/_Scenes/Cena 1 DJONATAS.unity
+  artifactKey: Guid(365a81b10763f8445ace547b574e4c12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Scenes/Cena 1 DJONATAS.unity using Guid(365a81b10763f8445ace547b574e4c12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62b3c53839cd84b095f398f6ddefedee') in 0.019337 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003502 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.415 seconds
+Platform modules already initialized, skipping
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3134 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 244.1 MB.
+System memory in use after: 244.3 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3783.
+Total: 2.503300 ms (FindLiveObjects: 0.311900 ms CreateObjectMapping: 0.186700 ms MarkObjects: 1.868400 ms  DeleteObjects: 0.135500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 731.014095 seconds.
+  path: Assets/_Models/Ship int.fbx
+  artifactKey: Guid(a7cac24fd60b1e542a92ff2eb4f5c939) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Models/Ship int.fbx using Guid(a7cac24fd60b1e542a92ff2eb4f5c939) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6220c21fd2810937029bd3ab9853d9e0') in 0.077739 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
 Registered in 0.003219 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.77 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.483 seconds
-Platform modules already initialized, skipping
-Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
-Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
-Refreshing native plugins compatible for Editor in 0.79 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3134 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 223.2 MB.
-System memory in use after: 223.4 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3667.
-Total: 2.281100 ms (FindLiveObjects: 0.311600 ms CreateObjectMapping: 0.163900 ms MarkObjects: 1.718900 ms  DeleteObjects: 0.085600 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003283 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.76 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.407 seconds
-Platform modules already initialized, skipping
-Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
-Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
-Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3134 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 223.2 MB.
-System memory in use after: 223.4 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3670.
-Total: 4.653500 ms (FindLiveObjects: 0.480200 ms CreateObjectMapping: 0.416600 ms MarkObjects: 3.594000 ms  DeleteObjects: 0.160100 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003142 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.76 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.411 seconds
-Platform modules already initialized, skipping
-Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
-Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
-Refreshing native plugins compatible for Editor in 0.77 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3134 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 223.2 MB.
-System memory in use after: 223.4 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3673.
-Total: 2.514600 ms (FindLiveObjects: 0.314200 ms CreateObjectMapping: 0.208100 ms MarkObjects: 1.901900 ms  DeleteObjects: 0.089200 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 1336.760132 seconds.
-  path: Assets/Prefabs/EnginesIdle.prefab
-  artifactKey: Guid(d2e30aaa5f0e6774793bb24c62397f27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/EnginesIdle.prefab using Guid(d2e30aaa5f0e6774793bb24c62397f27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87677ca326c69a270920552c6a6bfd25') in 0.040065 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 113.123512 seconds.
-  path: Assets/Prefabs/EnginesIdle.prefab
-  artifactKey: Guid(d2e30aaa5f0e6774793bb24c62397f27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/EnginesIdle.prefab using Guid(d2e30aaa5f0e6774793bb24c62397f27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '114d031b94652eb991e67dd7ebc1a9b0') in 0.004352 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1169.252328 seconds.
-  path: Assets/Rocks and Boulders 2/Rocks/Source/Materials/Unity 5/Rock1.mat
-  artifactKey: Guid(3501b3c43e42cb742bee51c3354f081f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Rocks and Boulders 2/Rocks/Source/Materials/Unity 5/Rock1.mat using Guid(3501b3c43e42cb742bee51c3354f081f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '784111cad8aabe20ac4b10d045b3b8f7') in 0.059810 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000283 seconds.
-  path: Assets/Rocks and Boulders 2/Rocks/Source/Materials/Unity 5/Rock2.mat
-  artifactKey: Guid(520e490b117f8cc4bbfd41ec92292838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Rocks and Boulders 2/Rocks/Source/Materials/Unity 5/Rock2.mat using Guid(520e490b117f8cc4bbfd41ec92292838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79d7131f18d61274a7e9712472d4bb31') in 0.055621 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000289 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Characters/Invector@V-Bot/Materials/rubber.mat
-  artifactKey: Guid(8423017f5dc8db74e89724fca7ab915f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Characters/Invector@V-Bot/Materials/rubber.mat using Guid(8423017f5dc8db74e89724fca7ab915f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f5ab6b12f4d4fb9285bde0e0be10c3a') in 0.085239 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000284 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Characters/Invector@V-Bot 2.0/Material/Custom/Rubber.mat
-  artifactKey: Guid(33c350b6cd6102647be9afdfaec5b563) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Characters/Invector@V-Bot 2.0/Material/Custom/Rubber.mat using Guid(33c350b6cd6102647be9afdfaec5b563) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a2f05a1c04f58f14d0c000ba61fe15b') in 1.275240 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000326 seconds.
-  path: Assets/Invector-3rdPersonController/Melee Combat/3DModels/vMeleeWeapons/vSword/Materials/Sword_V_difuse.mat
-  artifactKey: Guid(86b9be6fc7905f447979c4292830ad75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Melee Combat/3DModels/vMeleeWeapons/vSword/Materials/Sword_V_difuse.mat using Guid(86b9be6fc7905f447979c4292830ad75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b64633ad033ec350b2cb6e6669330e5') in 0.324750 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000234 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/Materials/mobile_cube.mat
-  artifactKey: Guid(3805243f7383ee740acbc079d3c7b38f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/Materials/mobile_cube.mat using Guid(3805243f7383ee740acbc079d3c7b38f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1611354becbb3e97a0747739b9cb807') in 0.301340 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000250 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/HealthItem/Materials/Material.mat
-  artifactKey: Guid(8975961753f14df47996f4a383999365) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/HealthItem/Materials/Material.mat using Guid(8975961753f14df47996f4a383999365) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b990d906346971f7a3ccfc08dc9617db') in 0.132893 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000306 seconds.
-  path: Assets/_Models/Materials/parte1.mat
-  artifactKey: Guid(027a0d9bbcdec444bbbc686c56cde043) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Models/Materials/parte1.mat using Guid(027a0d9bbcdec444bbbc686c56cde043) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6147cfdb297d9222f1f4c95d6d51738') in 0.011969 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000322 seconds.
-  path: Assets/Sci-Fi Styled Modular Pack/Materials/nature_ground.mat
-  artifactKey: Guid(71c78677fdc08394da7fd716fb41a991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sci-Fi Styled Modular Pack/Materials/nature_ground.mat using Guid(71c78677fdc08394da7fd716fb41a991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '480d521f3054cac646597243e4cfd66a') in 0.039875 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000263 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/3DModels/Props/bullets/materials/lambert1.mat
-  artifactKey: Guid(55d21989553a04b45bf27a3a8905417f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/3DModels/Props/bullets/materials/lambert1.mat using Guid(55d21989553a04b45bf27a3a8905417f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '353e0366e6fee3eb205fb74228eddc12') in 0.124522 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000278 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/BodySnapSystem/Scripts/Editor/Resources/Materials/No Name.mat
-  artifactKey: Guid(65d5441e6a4c7d04287723684491347e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Generic/BodySnapSystem/Scripts/Editor/Resources/Materials/No Name.mat using Guid(65d5441e6a4c7d04287723684491347e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4174aa68789476b1aea6bf17aabc5620') in 0.041595 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000324 seconds.
-  path: Assets/Sci-Fi Styled Modular Pack/Example scenes/Materials/Snow.mat
-  artifactKey: Guid(d6ca041d3b582d94a8f2ad86f4b1e304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sci-Fi Styled Modular Pack/Example scenes/Materials/Snow.mat using Guid(d6ca041d3b582d94a8f2ad86f4b1e304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9a4ab978187dd4b4a9b59e8c419a59e') in 0.183939 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000328 seconds.
-  path: Assets/Knife/Customizable Hologramm Shader/Materials/Hologram Terrain.mat
-  artifactKey: Guid(81aa44bf15e71764eb076719a7cda802) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Knife/Customizable Hologramm Shader/Materials/Hologram Terrain.mat using Guid(81aa44bf15e71764eb076719a7cda802) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b19dad795cad17e42f4e2b689f2d0781') in 0.455278 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000369 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Textures/prototype_textures/Materials/ladder_chromo.mat
-  artifactKey: Guid(b2b10d5d20df19c4095609048c3bec10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Textures/prototype_textures/Materials/ladder_chromo.mat using Guid(b2b10d5d20df19c4095609048c3bec10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afe61e7a724a6cad4eef2b38480079b1') in 0.037543 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000199 seconds.
-  path: Assets/Knife/Customizable Hologramm Shader/Materials/Prism Blue.mat
-  artifactKey: Guid(269832e2d0b629c4d995a637c3b8b4fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Knife/Customizable Hologramm Shader/Materials/Prism Blue.mat using Guid(269832e2d0b629c4d995a637c3b8b4fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93383bdeb54e1241350376d9f8c865ae') in 0.085832 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000349 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/Scripts/ArcherySystem/Animations/Materials/metal.mat
-  artifactKey: Guid(cec23be7d90a4cf4b86be23b94ce1118) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/Scripts/ArcherySystem/Animations/Materials/metal.mat using Guid(cec23be7d90a4cf4b86be23b94ce1118) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '170230f44dac452cfb4f40b1b9fc5f08') in 0.042262 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000221 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Textures/basicTextures/Materials/LocomotionBanner.mat
-  artifactKey: Guid(1fde83912a8bec848bc5c8d01d2afe97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Textures/basicTextures/Materials/LocomotionBanner.mat using Guid(1fde83912a8bec848bc5c8d01d2afe97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ebb8b0509de0a16a81e314db9850930') in 0.085496 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000292 seconds.
-  path: Assets/Invector-3rdPersonController/Melee Combat/3DModels/vMeleeWeapons/vSword/Materials/Sword_V_mobile.mat
-  artifactKey: Guid(9a408fa73e5a4d943b03a7a2ad562565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Melee Combat/3DModels/vMeleeWeapons/vSword/Materials/Sword_V_mobile.mat using Guid(9a408fa73e5a4d943b03a7a2ad562565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02c2c5029e57546e0b770119e4d31969') in 0.022981 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000275 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/Materials/stair_chromo.mat
-  artifactKey: Guid(7c11b386f77cd54429ef4076e8239102) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/Materials/stair_chromo.mat using Guid(7c11b386f77cd54429ef4076e8239102) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a376a324ab6c117e48086939afb21bd') in 0.063533 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000271 seconds.
-  path: Assets/Knife/Customizable Hologramm Shader/Materials/Light Cube.mat
-  artifactKey: Guid(e23534672b7e7894890dcbcc591de0aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Knife/Customizable Hologramm Shader/Materials/Light Cube.mat using Guid(e23534672b7e7894890dcbcc591de0aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f195e1235b73430c4ff81810174a960') in 0.032584 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000227 seconds.
-  path: Assets/Knife/Customizable Hologramm Shader/Materials/Hologram Space Ship.mat
-  artifactKey: Guid(ee970999e846149438f23f36b1ecd2ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Knife/Customizable Hologramm Shader/Materials/Hologram Space Ship.mat using Guid(ee970999e846149438f23f36b1ecd2ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7706b370f34b7399f917acd9b85ec835') in 0.042060 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000241 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Textures/prototype_textures/Materials/ladder_Metal.mat
-  artifactKey: Guid(2e23f77229be3224dbd1cd73d77ab2dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Textures/prototype_textures/Materials/ladder_Metal.mat using Guid(2e23f77229be3224dbd1cd73d77ab2dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6eca49809da1fc98f844f7667b014c9f') in 0.184674 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000249 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/Materials/stair_Metal.mat
-  artifactKey: Guid(81e74faac9902024f82cdbde512a360c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/Materials/stair_Metal.mat using Guid(81e74faac9902024f82cdbde512a360c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f956785b1841e7d9d823b11bc697bf1e') in 0.027529 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000178 seconds.
-  path: Assets/Knife/Customizable Hologramm Shader/Materials/Test.mat
-  artifactKey: Guid(208061c47f61b1e409f2d1a76de8981b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Knife/Customizable Hologramm Shader/Materials/Test.mat using Guid(208061c47f61b1e409f2d1a76de8981b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b04b668728c97cdaa009a39606c505c6') in 0.016559 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000287 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Textures/prototype_textures/Materials/statue_red.mat
-  artifactKey: Guid(923e24c0f0600104486a519e4eb4faef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Textures/prototype_textures/Materials/statue_red.mat using Guid(923e24c0f0600104486a519e4eb4faef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c717d9980168ab449b703954aed5fddd') in 0.196807 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000270 seconds.
-  path: Assets/_Models/Materials/parte2.mat
-  artifactKey: Guid(33fb48cfd6a00c34aae22995318cd393) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Models/Materials/parte2.mat using Guid(33fb48cfd6a00c34aae22995318cd393) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e389e69cf954512ff98e4ec55b7e630') in 0.056074 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000285 seconds.
-  path: Assets/Knife/Customizable Hologramm Shader/Materials/Hologram Gun Body.mat
-  artifactKey: Guid(1907de86f779ab84ea72d804f8acaf21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Knife/Customizable Hologramm Shader/Materials/Hologram Gun Body.mat using Guid(1907de86f779ab84ea72d804f8acaf21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd719483a651842ed6f5ef21eab2f3c3c') in 0.064564 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000305 seconds.
-  path: Assets/Knife/Customizable Hologramm Shader/Materials/Hologram Earth Orbit.mat
-  artifactKey: Guid(bf6f890d159cdcb4b86631fc79bf8c71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Knife/Customizable Hologramm Shader/Materials/Hologram Earth Orbit.mat using Guid(bf6f890d159cdcb4b86631fc79bf8c71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0edee7a8e0e5b948093029bc905f3023') in 0.033418 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000215 seconds.
-  path: Assets/Knife/Customizable Hologramm Shader/Materials/Hologram Earth.mat
-  artifactKey: Guid(b39cf593e663aca4784c2f092e8765b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Knife/Customizable Hologramm Shader/Materials/Hologram Earth.mat using Guid(b39cf593e663aca4784c2f092e8765b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3e646ab5a9e141e70e4a85d1ffa543d') in 0.218528 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000408 seconds.
-  path: Assets/Knife/Customizable Hologramm Shader/Materials/Environment.mat
-  artifactKey: Guid(4f9b2ee64acf33841b9e3118dfb1ea59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Knife/Customizable Hologramm Shader/Materials/Environment.mat using Guid(4f9b2ee64acf33841b9e3118dfb1ea59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa3e3594df907936eba4fdd8e7195138') in 0.028015 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000276 seconds.
-  path: Assets/Knife/Customizable Hologramm Shader/Materials/Hologram KM Body.mat
-  artifactKey: Guid(b866b2dafaa16594eb8198d65a1b8363) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Knife/Customizable Hologramm Shader/Materials/Hologram KM Body.mat using Guid(b866b2dafaa16594eb8198d65a1b8363) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6b2c285eea9fc8f1e5e5230bfc82ccf') in 0.260064 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000302 seconds.
-  path: Assets/Knife/Customizable Hologramm Shader/Materials/Black.mat
-  artifactKey: Guid(fdc398d9a0b6a5a48bcb3bd93f4d05cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Knife/Customizable Hologramm Shader/Materials/Black.mat using Guid(fdc398d9a0b6a5a48bcb3bd93f4d05cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fb5c448b4cfbb6d88cd23d76650ef85') in 0.026357 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000279 seconds.
-  path: Assets/Knife/Customizable Hologramm Shader/Materials/Hologram KM Cloth.mat
-  artifactKey: Guid(676ab4f47be0eaf4e82a50c2816ab001) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Knife/Customizable Hologramm Shader/Materials/Hologram KM Cloth.mat using Guid(676ab4f47be0eaf4e82a50c2816ab001) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4eacce015937017f301efb4b9b56789') in 0.219720 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000652 seconds.
-  path: Assets/Package/Platform/Materials/Platform.mat
-  artifactKey: Guid(f90ec9a7d5d619743925ab4d9a7fe106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Package/Platform/Materials/Platform.mat using Guid(f90ec9a7d5d619743925ab4d9a7fe106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4687ff4fe1a4c8c53e7a213d956880bd') in 0.047577 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000458 seconds.
-  path: Assets/Knife/Customizable Hologramm Shader/Materials/Hologram Wall Label.mat
-  artifactKey: Guid(73d0535bc97eec34c8c073dc1ab266d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Knife/Customizable Hologramm Shader/Materials/Hologram Wall Label.mat using Guid(73d0535bc97eec34c8c073dc1ab266d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '931a25d7df6d5064046fd2dbe3ff15c6') in 0.128655 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000274 seconds.
-  path: Assets/Knife/Customizable Hologramm Shader/Models/gun.fbx
-  artifactKey: Guid(5b6978d85a1b93444b7b14a426ccaaaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Knife/Customizable Hologramm Shader/Models/gun.fbx using Guid(5b6978d85a1b93444b7b14a426ccaaaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0639db30c090b187d7b5c7c2b8b0c81f') in 0.232362 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000279 seconds.
-  path: Assets/Knife/Customizable Hologramm Shader/Materials/Hologram Signal.mat
-  artifactKey: Guid(ded6584724028934693f6b96e2f41a6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Knife/Customizable Hologramm Shader/Materials/Hologram Signal.mat using Guid(ded6584724028934693f6b96e2f41a6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9aa3de7a9b9ce6d82a05f18cf804978') in 0.024264 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000250 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/HUD/guide-texts/Materials/jumpover.mat
-  artifactKey: Guid(5b566c2bd040aa24f9bea40bf8d47052) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/HUD/guide-texts/Materials/jumpover.mat using Guid(5b566c2bd040aa24f9bea40bf8d47052) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16072447f0c1f3474d628b33bc43008b') in 0.066646 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000197 seconds.
-  path: Assets/Knife/Customizable Hologramm Shader/Models/KnifeMan_t_pose.fbx
-  artifactKey: Guid(d5ec9c74e3956dd478a8c34ec7126518) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Knife/Customizable Hologramm Shader/Models/KnifeMan_t_pose.fbx using Guid(d5ec9c74e3956dd478a8c34ec7126518) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30f10cc141e56a6a8b195be0c2a53a8e') in 0.136076 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000267 seconds.
-  path: Assets/Knife/Customizable Hologramm Shader/Materials/Hologram Gun Details.mat
-  artifactKey: Guid(41b8f5115534fa542a43cd2323f5f771) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Knife/Customizable Hologramm Shader/Materials/Hologram Gun Details.mat using Guid(41b8f5115534fa542a43cd2323f5f771) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6e5893d4a1bf4f461f2ac75eab69384') in 0.020187 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000285 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/FootStep/Materials/stepSand.mat
-  artifactKey: Guid(b6b6fe42fca74e84f86c69891ca6a989) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/FootStep/Materials/stepSand.mat using Guid(b6b6fe42fca74e84f86c69891ca6a989) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36f9535086383fba9bc554ad472871c6') in 0.128838 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000400 seconds.
-  path: Assets/Knife/Customizable Hologramm Shader/Materials/Glow Quad.mat
-  artifactKey: Guid(4e7c4d46f29987541ab4c9de067899d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Knife/Customizable Hologramm Shader/Materials/Glow Quad.mat using Guid(4e7c4d46f29987541ab4c9de067899d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c255249f8e6ae5cf895a6fe85c23227e') in 0.017987 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000291 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/vOctagon/Materials/light.mat
-  artifactKey: Guid(77bdd6e103307384797bc8477bac88e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/vOctagon/Materials/light.mat using Guid(77bdd6e103307384797bc8477bac88e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1fc708db78789f3ab23aead335354f1') in 0.201001 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000409 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Characters/Invector@V-Bot/Materials/metal.mat
-  artifactKey: Guid(d54b4bc1f1be9d742992c660b899630a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Characters/Invector@V-Bot/Materials/metal.mat using Guid(d54b4bc1f1be9d742992c660b899630a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd0069c229c8c1a7c4ab3a791618ec35') in 0.025658 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000313 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/Materials/Ladder_1.mat
-  artifactKey: Guid(3dfffd5a5d9d6c747ba693ecf451d511) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/Materials/Ladder_1.mat using Guid(3dfffd5a5d9d6c747ba693ecf451d511) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f1449e2e9e2582560cd663ce02f7a7f') in 0.022902 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000326 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/3DModels/Props/targetPractice/Materials/targetPractice.mat
-  artifactKey: Guid(421b891ff49317b4c8a72e6d8d782cd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/3DModels/Props/targetPractice/Materials/targetPractice.mat using Guid(421b891ff49317b4c8a72e6d8d782cd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87b2077bfe58401694a2f5db000689e6') in 0.110415 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000324 seconds.
-  path: Assets/Knife/Customizable Hologramm Shader/Materials/Holo Wall/Hologram Wall.mat
-  artifactKey: Guid(3223e943439ae2141a25e96e1c6b31a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Knife/Customizable Hologramm Shader/Materials/Holo Wall/Hologram Wall.mat using Guid(3223e943439ae2141a25e96e1c6b31a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a7d9497a03ab96554bceb0b22ac2856') in 0.028463 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000247 seconds.
-  path: Assets/Knife/Customizable Hologramm Shader/Materials/Hologram Earth Dots.mat
-  artifactKey: Guid(25acab39904406d4b93f389c63e531bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Knife/Customizable Hologramm Shader/Materials/Hologram Earth Dots.mat using Guid(25acab39904406d4b93f389c63e531bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3cae605f5598a421d68cc1d9ee6bd99') in 0.033745 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000327 seconds.
-  path: Assets/_Materials/Spacefly Cabo.mat
-  artifactKey: Guid(df28cc0967255cf49aafbf145f95f6ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Materials/Spacefly Cabo.mat using Guid(df28cc0967255cf49aafbf145f95f6ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd08ad9f2a242e7f62108f9a0d417ad5b') in 0.039141 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000296 seconds.
-  path: Assets/Knife/Customizable Hologramm Shader/Models/Material Ball.fbx
-  artifactKey: Guid(9feef318553c24648af1dc8851875112) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Knife/Customizable Hologramm Shader/Models/Material Ball.fbx using Guid(9feef318553c24648af1dc8851875112) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a5c6128ae11798519f6daae350535e8') in 0.043251 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000350 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/3DModels/Textures/VbotBlackShooterEdition/BlackShooterEdition/Rubber.mat
-  artifactKey: Guid(08f92fb4bee6e6740aeed128f64eec90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/3DModels/Textures/VbotBlackShooterEdition/BlackShooterEdition/Rubber.mat using Guid(08f92fb4bee6e6740aeed128f64eec90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5444f40c3ebcd83378a471a37b1b219e') in 0.182266 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000332 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/vOctagon/Materials/octa.mat
-  artifactKey: Guid(9623ac7bdcf9ed942880df4431857700) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/vOctagon/Materials/octa.mat using Guid(9623ac7bdcf9ed942880df4431857700) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5dbed979e61de5621b95a98ce9f2aa0') in 0.041880 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000303 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vWeaponsNew/material/orange.mat
-  artifactKey: Guid(990f12e11c0c307478a50283c620cb39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vWeaponsNew/material/orange.mat using Guid(990f12e11c0c307478a50283c620cb39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dd7d1a9fd85ecbb3a2c9bbdc74382d3') in 0.011382 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000325 seconds.
-  path: Assets/Knife/Customizable Hologramm Shader/Materials/Hologram Unlit.mat
-  artifactKey: Guid(78298b236e25d8c49ac088c4834f51d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Knife/Customizable Hologramm Shader/Materials/Hologram Unlit.mat using Guid(78298b236e25d8c49ac088c4834f51d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cd01a09742b207586da26507c0c9243') in 0.017005 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000295 seconds.
-  path: Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/Material.001.mat
-  artifactKey: Guid(55a01753891421e45b5964c2ebc505d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/Material.001.mat using Guid(55a01753891421e45b5964c2ebc505d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b93e706bb07b30cb4ab98355d20717b7') in 0.033234 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000292 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/Materials/Ladder_2.mat
-  artifactKey: Guid(9a47f97112907c14c922c5f56fc6f87a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/Materials/Ladder_2.mat using Guid(9a47f97112907c14c922c5f56fc6f87a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df41cab8eb800f50cf58f8e88090fecb') in 0.062464 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000484 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/HealthItem/Materials/sphereHealthTexture.mat
-  artifactKey: Guid(2ea2be3c573d8a647ac0525c063639ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/HealthItem/Materials/sphereHealthTexture.mat using Guid(2ea2be3c573d8a647ac0525c063639ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a977d1d58bf1be485fd036d80e66a0d7') in 0.026810 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000301 seconds.
-  path: Assets/_Models/Materials/parte4.mat
-  artifactKey: Guid(eb9daf97648352442b945cbe784646f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Models/Materials/parte4.mat using Guid(eb9daf97648352442b945cbe784646f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ad0363b8da1077dbb2db786004fcd9d') in 0.010796 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000330 seconds.
-  path: Assets/Invector-3rdPersonController/Melee Combat/Resources/Materials/meleeLogo.mat
-  artifactKey: Guid(d2d254845e09f7648a96db3c0a6fca21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Melee Combat/Resources/Materials/meleeLogo.mat using Guid(d2d254845e09f7648a96db3c0a6fca21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e6bd6f95ae8dc7e58e783bbdf3033e3') in 0.054040 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000294 seconds.
-  path: Assets/Knife/Customizable Hologramm Shader/Materials/Cone Red.mat
-  artifactKey: Guid(aab20c0443e89c6459dc412a21ea13fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Knife/Customizable Hologramm Shader/Materials/Cone Red.mat using Guid(aab20c0443e89c6459dc412a21ea13fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64b62b446c48c9a224cae506717340a4') in 0.024047 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000278 seconds.
-  path: Assets/Knife/Customizable Hologramm Shader/Models/space ship.fbx
-  artifactKey: Guid(e2af50798316b734a8e9d4e9c3366eb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Knife/Customizable Hologramm Shader/Models/space ship.fbx using Guid(e2af50798316b734a8e9d4e9c3366eb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a22554ad123cc016f0fd555ef1dbc36') in 0.043854 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000331 seconds.
-  path: Assets/Knife/Customizable Hologramm Shader/Materials/Hologram Earth Orbit 3.mat
-  artifactKey: Guid(b4c5ecb1d6170494e98b7d5a24e15e63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Knife/Customizable Hologramm Shader/Materials/Hologram Earth Orbit 3.mat using Guid(b4c5ecb1d6170494e98b7d5a24e15e63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '314bbb93091f8c7930020b8f3c6d88fa') in 0.019700 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000214 seconds.
-  path: Assets/Knife/Customizable Hologramm Shader/Materials/Hologram Earth Orbit 1.mat
-  artifactKey: Guid(f6ff8d0cfdc911f419da2873e8857671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Knife/Customizable Hologramm Shader/Materials/Hologram Earth Orbit 1.mat using Guid(f6ff8d0cfdc911f419da2873e8857671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb06f25d718ad1ee1dd551879957a3bb') in 0.015723 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000286 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vWeaponsNew/mesh/Materials/orange.mat
-  artifactKey: Guid(ce2b315703d3c1b43adceff36f2c494a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vWeaponsNew/mesh/Materials/orange.mat using Guid(ce2b315703d3c1b43adceff36f2c494a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ca19014b0dbc7ea0b48a20b7bc96b6a') in 0.042798 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000312 seconds.
-  path: Assets/Sci-Fi Styled Modular Pack/Materials/lattice.mat
-  artifactKey: Guid(0f4853191d321d748b1f95a97d7b37f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sci-Fi Styled Modular Pack/Materials/lattice.mat using Guid(0f4853191d321d748b1f95a97d7b37f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a30edde38240fca24790345e3345a933') in 0.065177 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000295 seconds.
-  path: Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/potionHealth.000.mat
-  artifactKey: Guid(03ba3f92c30eb7146ae3d5b91e4a7fd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/ItemManager/3D Models/Materials/potionHealth.000.mat using Guid(03ba3f92c30eb7146ae3d5b91e4a7fd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c00bfd39ac4cf8a1ee72658fb9eb0d4d') in 0.024287 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000255 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/Materials/orange_cube.mat
-  artifactKey: Guid(6a6829872521ac640898a506b5db0156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Others/Materials/orange_cube.mat using Guid(6a6829872521ac640898a506b5db0156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4511eaf78dca7dfd8e23cdf9c53fe27c') in 0.032192 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000287 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Textures/basicTextures/Materials/MeleeBanner.mat
-  artifactKey: Guid(264d21211bf46b745ad017bc8538a2a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Textures/basicTextures/Materials/MeleeBanner.mat using Guid(264d21211bf46b745ad017bc8538a2a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7a8509cab8c3fbf1d019bb863b7927c') in 0.051902 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000269 seconds.
-  path: Assets/Knife/Customizable Hologramm Shader/Materials/Hologram Material Ball.mat
-  artifactKey: Guid(2664aa71df85e7247a08e331bb6d23df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Knife/Customizable Hologramm Shader/Materials/Hologram Material Ball.mat using Guid(2664aa71df85e7247a08e331bb6d23df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb1b6ac01dc33bc231da8854f5da5f1c') in 0.016463 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000302 seconds.
-  path: Assets/Knife/Customizable Hologramm Shader/Materials/Light Sphere.mat
-  artifactKey: Guid(a1f506459dce7dd4eb5565919ce1cc79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Knife/Customizable Hologramm Shader/Materials/Light Sphere.mat using Guid(a1f506459dce7dd4eb5565919ce1cc79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ea7358878eed6a0cb0bd2561ae52e62') in 0.015291 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000223 seconds.
-  path: Assets/Knife/Customizable Hologramm Shader/Materials/Hologram Terrain Dots.mat
-  artifactKey: Guid(1ecd8222bf1cc9546b223e2a68b1d697) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Knife/Customizable Hologramm Shader/Materials/Hologram Terrain Dots.mat using Guid(1ecd8222bf1cc9546b223e2a68b1d697) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7888c97667ea01b123afe80fc5c49c3a') in 0.057396 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000311 seconds.
-  path: Assets/Knife/Customizable Hologramm Shader/Materials/Hologram Earth Orbit 2.mat
-  artifactKey: Guid(84063d460b7671f43b5677213aa482c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Knife/Customizable Hologramm Shader/Materials/Hologram Earth Orbit 2.mat using Guid(84063d460b7671f43b5677213aa482c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59f572ac7b9e3f9a3c5cd3d12017e151') in 0.046158 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000358 seconds.
-  path: Assets/Knife/Customizable Hologramm Shader/Materials/Glow Quad 1.mat
-  artifactKey: Guid(3b62abb7717e8204c898490eabb3d00d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Knife/Customizable Hologramm Shader/Materials/Glow Quad 1.mat using Guid(3b62abb7717e8204c898490eabb3d00d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ad47f355bb717928d4aeb1b2ce4b4ca') in 0.015617 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000312 seconds.
-  path: Assets/_Models/001_Blocking/CGMA/Materials/SolidColor.mat
-  artifactKey: Guid(3ee96c6113ee6cf4ebc45efbe751c74c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Models/001_Blocking/CGMA/Materials/SolidColor.mat using Guid(3ee96c6113ee6cf4ebc45efbe751c74c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c564659b5da2295533f4a1ecaaf4f7df') in 0.029937 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000260 seconds.
-  path: Assets/Knife/Customizable Hologramm Shader/Models/Room_1.fbx
-  artifactKey: Guid(78c05df0c17272c4bb1212ffb997309c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Knife/Customizable Hologramm Shader/Models/Room_1.fbx using Guid(78c05df0c17272c4bb1212ffb997309c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65b02c44dc6118ce44fa4f4849721d36') in 0.047614 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000253 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/FootStep/Materials/step.mat
-  artifactKey: Guid(bbe9a3f845cc73b498188d55a1c6abed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/FootStep/Materials/step.mat using Guid(bbe9a3f845cc73b498188d55a1c6abed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb8f9af384f841684963f980f9ebde1f') in 0.121323 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000331 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/VirtualShield/Texture/PortalParticle.mat
-  artifactKey: Guid(171a837587fecc54fa67bdda50ac2857) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/VirtualShield/Texture/PortalParticle.mat using Guid(171a837587fecc54fa67bdda50ac2857) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8940e6bba3a2567c74ab8998cbf84fbc') in 0.045489 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000271 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Textures/prototype_textures/Materials/statue_blue.mat
-  artifactKey: Guid(9feb0a6f97a564444a0fb8d6f2292025) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/3D Models/Textures/prototype_textures/Materials/statue_blue.mat using Guid(9feb0a6f97a564444a0fb8d6f2292025) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70062bab99c1b09d7ba0bb2af98593de') in 0.032387 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000317 seconds.
-  path: Assets/_Materials/papel.mat
-  artifactKey: Guid(e7221b2a30d3cea4f9dd4e1732dd3cfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Materials/papel.mat using Guid(e7221b2a30d3cea4f9dd4e1732dd3cfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d78fdb1f4193f715ab748e2b0f6651a') in 0.009678 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000324 seconds.
-  path: Assets/Sci-Fi Styled Modular Pack/Materials/nature_root.mat
-  artifactKey: Guid(00fc27719fc29924b9a34aab914dc83a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sci-Fi Styled Modular Pack/Materials/nature_root.mat using Guid(00fc27719fc29924b9a34aab914dc83a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '491e5ea174498c8be76e4128f4e6c511') in 0.010693 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000298 seconds.
-  path: Assets/Barking_Dog/3D Free Modular Kit/_Meshes/Materials/Neon_01.mat
-  artifactKey: Guid(91a1b05a08a334950a599b252610e8cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Barking_Dog/3D Free Modular Kit/_Meshes/Materials/Neon_01.mat using Guid(91a1b05a08a334950a599b252610e8cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c86366cb3df129c1f40218598b08b32f') in 0.019816 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000411 seconds.
-  path: Assets/Knife/Customizable Hologramm Shader/Materials/Boiler.mat
-  artifactKey: Guid(64eb989404d31a343b66968bf1831eae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Knife/Customizable Hologramm Shader/Materials/Boiler.mat using Guid(64eb989404d31a343b66968bf1831eae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98d1a8cadead6ee6a3ab23f839e022b0') in 0.866803 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000250 seconds.
-  path: Assets/Barking_Dog/3D Free Modular Kit/_Meshes/Materials/Diffuse_01.mat
-  artifactKey: Guid(34e48a3ce50b34c339d8fc61e309e31d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Barking_Dog/3D Free Modular Kit/_Meshes/Materials/Diffuse_01.mat using Guid(34e48a3ce50b34c339d8fc61e309e31d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7bb30c1e69a6ef40f289bf0b0ba425d') in 0.022887 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000298 seconds.
-  path: Assets/Knife/Customizable Hologramm Shader/Materials/Ground.mat
-  artifactKey: Guid(14e32c1ec0b97a041b006cf50055f84c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Knife/Customizable Hologramm Shader/Materials/Ground.mat using Guid(14e32c1ec0b97a041b006cf50055f84c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad3f92edf318a1e1fa73532238c15745') in 0.059684 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000318 seconds.
-  path: Assets/Invector-3rdPersonController/Basic Locomotion/HUD/guide-texts/Materials/stepup.mat
-  artifactKey: Guid(5619fe383228c014384d72774680cef9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Basic Locomotion/HUD/guide-texts/Materials/stepup.mat using Guid(5619fe383228c014384d72774680cef9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44c9e786ff1801e372e34ac56408165b') in 0.068618 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000310 seconds.
-  path: Assets/Sci-Fi Styled Modular Pack/Models/Materials/No Name.mat
-  artifactKey: Guid(7a58152a38aedc0499250c326bba4d63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sci-Fi Styled Modular Pack/Models/Materials/No Name.mat using Guid(7a58152a38aedc0499250c326bba4d63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d66dfbb9bf1058234ed33e200ff0428') in 0.020411 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000335 seconds.
-  path: Assets/Sci-Fi Styled Modular Pack/Materials/lattice floor.mat
-  artifactKey: Guid(62dcf96e239eb0d4db44cbe622abf152) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sci-Fi Styled Modular Pack/Materials/lattice floor.mat using Guid(62dcf96e239eb0d4db44cbe622abf152) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '506f06cb6e83b2e733193c1f9b34fec7') in 0.016765 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000332 seconds.
-  path: Assets/Rocks and Boulders 2/Rocks/Source/Materials/Unity 5/Rock5.mat
-  artifactKey: Guid(b5df0d0c5fdf17849add10dec913d0ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Rocks and Boulders 2/Rocks/Source/Materials/Unity 5/Rock5.mat using Guid(b5df0d0c5fdf17849add10dec913d0ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5371c53ce5c1704f495b9560c6e33837') in 0.025804 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000327 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/Textures/wood_A/Materials/plank.mat
-  artifactKey: Guid(ecde927386aa31649a90f44ed86c6016) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/Scripts/DecalManager/Textures/wood_A/Materials/plank.mat using Guid(ecde927386aa31649a90f44ed86c6016) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c6561b2f87dbe2826554167f8755952') in 0.090369 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003818 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.76 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.521 seconds
-Platform modules already initialized, skipping
-Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
-Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
-Refreshing native plugins compatible for Editor in 0.79 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3134 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 238.3 MB.
-System memory in use after: 238.5 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3715.
-Total: 2.578200 ms (FindLiveObjects: 0.324400 ms CreateObjectMapping: 0.132600 ms MarkObjects: 2.033600 ms  DeleteObjects: 0.086700 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003333 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.76 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.402 seconds
-Platform modules already initialized, skipping
-Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
-Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
-Refreshing native plugins compatible for Editor in 0.76 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3134 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 238.3 MB.
-System memory in use after: 238.5 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3718.
-Total: 2.427300 ms (FindLiveObjects: 0.289100 ms CreateObjectMapping: 0.185500 ms MarkObjects: 1.861700 ms  DeleteObjects: 0.089800 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003506 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.77 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.436 seconds
-Platform modules already initialized, skipping
-Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
-Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
-Refreshing native plugins compatible for Editor in 0.77 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3134 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 238.3 MB.
-System memory in use after: 238.5 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3721.
-Total: 5.771700 ms (FindLiveObjects: 0.562700 ms CreateObjectMapping: 0.405100 ms MarkObjects: 4.634900 ms  DeleteObjects: 0.167100 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 464.032303 seconds.
-  path: Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vWeaponsNew/material/weaponMaterial2.mat
-  artifactKey: Guid(6e28447ba2c689044ad64c578428b199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Invector-3rdPersonController/Shooter/3DModels/Weapons/vWeaponsNew/material/weaponMaterial2.mat using Guid(6e28447ba2c689044ad64c578428b199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b9467f6a4ad60a40994f4fd2ce9c5c8') in 0.074463 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003182 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.482 seconds
-Platform modules already initialized, skipping
-Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
-Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
-Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3134 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 238.3 MB.
-System memory in use after: 238.5 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3725.
-Total: 2.450400 ms (FindLiveObjects: 0.306800 ms CreateObjectMapping: 0.161900 ms MarkObjects: 1.887700 ms  DeleteObjects: 0.092800 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003505 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.485 seconds
-Platform modules already initialized, skipping
-Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
-Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
-Refreshing native plugins compatible for Editor in 0.83 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3134 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 238.3 MB.
-System memory in use after: 238.5 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3728.
-Total: 6.403300 ms (FindLiveObjects: 0.737000 ms CreateObjectMapping: 0.454500 ms MarkObjects: 5.048800 ms  DeleteObjects: 0.160600 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003314 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.77 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.471 seconds
-Platform modules already initialized, skipping
-Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
-Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
-Refreshing native plugins compatible for Editor in 0.80 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3134 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 238.3 MB.
-System memory in use after: 238.5 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3731.
-Total: 2.543400 ms (FindLiveObjects: 0.303500 ms CreateObjectMapping: 0.181300 ms MarkObjects: 1.965100 ms  DeleteObjects: 0.092200 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004995 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.77 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.446 seconds
+- Completed reload, in  1.451 seconds
 Platform modules already initialized, skipping
 Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
 Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
 Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3134 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 238.3 MB.
-System memory in use after: 238.5 MB.
+System memory in use before: 244.1 MB.
+System memory in use after: 244.3 MB.
 
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3734.
-Total: 2.430100 ms (FindLiveObjects: 0.297900 ms CreateObjectMapping: 0.165400 ms MarkObjects: 1.855600 ms  DeleteObjects: 0.110500 ms)
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3787.
+Total: 2.499700 ms (FindLiveObjects: 0.305700 ms CreateObjectMapping: 0.191000 ms MarkObjects: 1.858000 ms  DeleteObjects: 0.144200 ms)
 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003268 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.82 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.429 seconds
-Platform modules already initialized, skipping
-Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
-Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
-Refreshing native plugins compatible for Editor in 0.77 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3136 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 239.4 MB.
-System memory in use after: 238.7 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3737.
-Total: 6.837800 ms (FindLiveObjects: 0.571400 ms CreateObjectMapping: 0.440700 ms MarkObjects: 4.714300 ms  DeleteObjects: 1.108200 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003264 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.83 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.411 seconds
-Platform modules already initialized, skipping
-Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
-Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
-Refreshing native plugins compatible for Editor in 0.79 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3136 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 239.4 MB.
-System memory in use after: 238.7 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3740.
-Total: 2.769300 ms (FindLiveObjects: 0.284500 ms CreateObjectMapping: 0.177000 ms MarkObjects: 1.903000 ms  DeleteObjects: 0.404200 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003549 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.76 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.492 seconds
-Platform modules already initialized, skipping
-Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
-Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
-Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3136 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 239.4 MB.
-System memory in use after: 238.7 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3743.
-Total: 3.099400 ms (FindLiveObjects: 0.330600 ms CreateObjectMapping: 0.165200 ms MarkObjects: 2.112800 ms  DeleteObjects: 0.489500 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 16836.923673 seconds.
-  path: Assets/_Scenes/Cena 2.unity
-  artifactKey: Guid(f47650c364a37e145a6a13f7f260a75c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Scenes/Cena 2.unity using Guid(f47650c364a37e145a6a13f7f260a75c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33710b2707764f924a06d92be40568e5') in 0.016914 seconds 
