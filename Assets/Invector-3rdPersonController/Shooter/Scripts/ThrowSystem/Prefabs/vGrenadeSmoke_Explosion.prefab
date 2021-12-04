@@ -50,7 +50,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 898a490f854251046a69c0ef94cc452b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  openCloseEvents: 1
+  openCloseEvents: 0
   openCloseWindow: 0
   selectedToolbar: 0
   damage:
@@ -79,7 +79,7 @@ MonoBehaviour:
   applyForceLayer:
     serializedVersion: 2
     m_Bits: 0
-  timeToExplode: 5
+  timeToExplode: 1
   normalizeTime: 1
   showGizmos: 0
   onInitTimer:
